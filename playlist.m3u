@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chnbt/index.m3u8
 
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Digital TV",THAI PBS HD
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Digital TV",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chthaipbs/index.m3u8
 
@@ -40,7 +40,7 @@ http://cat.sv168.xyz/feed/202205171929/chnation/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chworkpoint/index.m3u8
 
-#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True4U
+#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chtrue4u/index.m3u8
 
@@ -52,11 +52,11 @@ http://cat.sv168.xyz/feed/202205171929/chgmm/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/ch8/index.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",MONO29
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",Mono 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chmono29/index.m3u8
 
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",9MCOT HD
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chmcothd/index.m3u8
 
@@ -72,7 +72,7 @@ http://cat.sv168.xyz/feed/202205171929/chthairath/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/ch3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="AmarinTVHD.th" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV HD
+#EXTINF:-1 tvg-id="AmarinTVHD.th" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chamarin/index.m3u8
 
@@ -80,7 +80,7 @@ http://cat.sv168.xyz/feed/202205171929/chamarin/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/ch7hd/index.m3u8
 
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD 36
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cat.sv168.xyz/feed/202205171929/chpptvhd/index.m3u8
 
@@ -219,6 +219,10 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truesparkpla
 #EXTINF:-1 tvg-id="FWTOON.th" tvg-logo="https://i.imgur.com/5X10SVu.png" group-title="Kids",FWTOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-logo="https://i.imgur.com/ubCTAn8.png" group-title="Sports",3BB Sports One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelThailand.th" tvg-logo="https://i.imgur.com/b6m4WG0.png" group-title="Documentary",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
