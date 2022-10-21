@@ -192,10 +192,6 @@ https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Aniplus.th" tvg-logo="https://i.imgur.com/pV3PauP.png" group-title="Kids",Aniplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r8/aniplus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/R7VdQFf.png" group-title="Kids",DreamWorks Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/dreamworks/playlist.m3u8
@@ -203,6 +199,10 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/dreamworks/p
 #EXTINF:-1 tvg-id="CartoonNetwork.th" tvg-logo="https://i.imgur.com/tZsfaU5.png" group-title="Kids",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/cartoonnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aniplus.th" tvg-logo="https://i.imgur.com/pV3PauP.png" group-title="Kids",Aniplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r8/aniplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.th" tvg-logo="https://i.imgur.com/hbuXcqu.png" group-title="Kids",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
