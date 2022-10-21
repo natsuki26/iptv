@@ -170,7 +170,7 @@ https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/wbtv/playlis
 
 #EXTINF:-1 tvg-id="ParamountNetworkHDThailand.th" tvg-logo="https://i.imgur.com/5EH5kRm.png" group-title="Entertainment",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/paramount/chunks.m3u8
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-logo="https://i.imgur.com/QBdHr5w.png" group-title="Entertainment",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -231,12 +231,32 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/pla
 #EXTINF:-1 tvg-id="TrueSportHD.th" tvg-logo="https://i.imgur.com/tsLASKR.png" group-title="Sports",True Sport 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/chunks.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.imgur.com/I2rcavt.png" group-title="Sports",True Sport 2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/sport/truesporthd2/chunks.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/sport/truesporthd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-logo="https://i.imgur.com/GRVj3yA.png" group-title="Sports",True Sport 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/sport/truesporthd3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.imgur.com/GRVj3yA.png" group-title="Sports",True Sport 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/sport/truesporthd4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-logo="https://i.imgur.com/GRVj3yA.png" group-title="Sports",True Sport 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/sport/truesportsd5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-logo="https://i.imgur.com/GRVj3yA.png" group-title="Sports",True Sport 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/sport/truesportsd7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelThailand.th" tvg-logo="https://i.imgur.com/b6m4WG0.png" group-title="Documentary",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
