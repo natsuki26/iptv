@@ -228,6 +228,11 @@ https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TRUEPREMIERHD-1.th" tvg-logo="https://i.imgur.com/CxAbrYV.png" group-title="Sports",TRUE PREMIER HD-1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannelThailand.th" tvg-logo="https://i.imgur.com/b6m4WG0.png" group-title="Documentary",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
