@@ -168,6 +168,10 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-axn/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ParamountNetworkHDThailand.th" tvg-logo="https://i.imgur.com/5EH5kRm.png" group-title="Entertainment",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/paramount/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-logo="https://i.imgur.com/QBdHr5w.png" group-title="Entertainment",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-tlc/playlist.m3u8
