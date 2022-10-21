@@ -233,6 +233,11 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-logo="https://i.imgur.com/I2rcavt.png" group-title="Sports",True Sport 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd2/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryChannelThailand.th" tvg-logo="https://i.imgur.com/b6m4WG0.png" group-title="Documentary",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
