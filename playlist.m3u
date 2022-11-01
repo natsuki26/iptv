@@ -297,11 +297,15 @@ https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truesci/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-logo="https://i.imgur.com/WGQLPBR.png" group-title="Education",TV Muslim Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/dAxdZE0.png" group-title="Education",White Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NEWTM.th" tvg-logo="https://i.imgur.com/KqWFxXx.png" group-title="Education",NEW TM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-logo="https://i.imgur.com/WGQLPBR.png" group-title="Education",TV Muslim Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
 
