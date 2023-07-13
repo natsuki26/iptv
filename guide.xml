@@ -5,6 +5,7 @@
 <channel id="CartoonClub.th"><display-name>Cartoon Club</display-name><icon src="https://i.imgur.com/KL0oitM.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="Channel3HD.th"><display-name>Channel 3 HD</display-name><icon src="https://i.imgur.com/lHbIKfF.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="Channel8.th"><display-name>Channel 8</display-name><icon src="https://i.imgur.com/RSQLFiU.png"/><url>https://gigatv.3bb.co.th</url></channel>
+<channel id="DreamWorksChannelAsia.us"><display-name>DreamWorks TV HD</display-name><icon src="https://i.imgur.com/R7VdQFf.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="GMM25.th"><display-name>GMM 25</display-name><icon src="https://i.imgur.com/sWGT1SD.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="JKN18.th"><display-name>JKN 18</display-name><icon src="https://i.imgur.com/zxgCdl0.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="MCOTHD.th"><display-name>MCOT HD</display-name><icon src="https://i.imgur.com/S4dSUQ7.png"/><url>https://gigatv.3bb.co.th</url></channel>
@@ -17,13 +18,21 @@
 <channel id="TPTV.th"><display-name>TPTV</display-name><icon src="https://i.imgur.com/Jfdy937.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TSports7.th"><display-name>T Sports7</display-name><icon src="https://i.imgur.com/hnfiUbK.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TV5HD.th"><display-name>TV5 HD</display-name><icon src="https://i.imgur.com/4MIQNPQ.png"/><url>https://gigatv.3bb.co.th</url></channel>
+<channel id="TVBXingHe.hk"><display-name>TVB Xing He</display-name><icon src="https://i.imgur.com/dRZ1OMJ.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="ThaiPBS.th"><display-name>Thai PBS</display-name><icon src="https://i.imgur.com/OFsQwvv.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="ThairathTV.th"><display-name>Thiarath TV</display-name><icon src="https://i.imgur.com/ArasZJO.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TopNews.th"><display-name>Top News</display-name><icon src="https://i.imgur.com/YuDZ0ec.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="True4U.th"><display-name>True 4U</display-name><icon src="https://i.imgur.com/tXb8NiE.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueAsianMore.th"><display-name>True Asian More</display-name><icon src="https://i.imgur.com/lahGZ0y.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueChineseMore.th"><display-name>True Chinese More</display-name><icon src="https://i.imgur.com/FyIzz0l.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueFilmHD.th"><display-name>True Film HD</display-name><icon src="https://i.imgur.com/9bA4UZm.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueFilmHD2.th"><display-name>True Film HD 2</display-name><icon src="https://i.imgur.com/Seg3urm.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="TrueKoreanMore.th"><display-name>True Korean More</display-name><icon src="https://i.imgur.com/Gfn2L5S.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueMovieHits.th"><display-name>True Movie Hits</display-name><icon src="https://i.imgur.com/qSzvmIg.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueSeries.th"><display-name>True Series</display-name><icon src="https://i.imgur.com/gJNWHfU.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueThaiFilm.th"><display-name>True Thai Film</display-name><icon src="https://i.imgur.com/BXIOvwX.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueXZyte.th"><display-name>True X-Zyte</display-name><icon src="https://i.imgur.com/VoNp0DD.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="WarnerTVSoutheastAsia.us"><display-name>Warner TV HD</display-name><icon src="https://i.imgur.com/zgHNFrm.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="Workpoint23.th"><display-name>Workpoint</display-name><icon src="https://i.imgur.com/oxf6BRn.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <programme start="20230712230000 +0000" stop="20230712231000 +0000" channel="ALTV.th"><title lang="th">นิทานแสนสนุก</title></programme>
 <programme start="20230712231000 +0000" stop="20230712231700 +0000" channel="ALTV.th"><title lang="th">Fit in 5 โตไปทุกวัน</title></programme>
@@ -679,6 +688,194 @@
 <programme start="20230715131000 +0000" stop="20230715151500 +0000" channel="Channel8.th"><title lang="th">ลุยชนข่าว</title></programme>
 <programme start="20230715151500 +0000" stop="20230715161500 +0000" channel="Channel8.th"><title lang="th">ละคร เรือนสายสวาท</title></programme>
 <programme start="20230715161500 +0000" stop="20230714170000 +0000" channel="Channel8.th"><title lang="th">เฉียด</title></programme>
+<programme start="20230712171000 +0000" stop="20230712173500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.28</title></programme>
+<programme start="20230712173500 +0000" stop="20230712180000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.10</title></programme>
+<programme start="20230712180000 +0000" stop="20230712181500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.89</title></programme>
+<programme start="20230712181500 +0000" stop="20230712183000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.90</title></programme>
+<programme start="20230712183000 +0000" stop="20230712184500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.91</title></programme>
+<programme start="20230712184500 +0000" stop="20230712190000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.92</title></programme>
+<programme start="20230712190000 +0000" stop="20230712191500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.37</title></programme>
+<programme start="20230712191500 +0000" stop="20230712193000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.38</title></programme>
+<programme start="20230712193000 +0000" stop="20230712194500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.39</title></programme>
+<programme start="20230712194500 +0000" stop="20230712200000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.40</title></programme>
+<programme start="20230712200000 +0000" stop="20230712201500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.37</title></programme>
+<programme start="20230712201500 +0000" stop="20230712203000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.38</title></programme>
+<programme start="20230712203000 +0000" stop="20230712204500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.39</title></programme>
+<programme start="20230712204500 +0000" stop="20230712210000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.40</title></programme>
+<programme start="20230712210000 +0000" stop="20230712211500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.37</title></programme>
+<programme start="20230712211500 +0000" stop="20230712213000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.38</title></programme>
+<programme start="20230712213000 +0000" stop="20230712214500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.39</title></programme>
+<programme start="20230712214500 +0000" stop="20230712220000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.40</title></programme>
+<programme start="20230712220000 +0000" stop="20230712223000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S2 EP.45</title></programme>
+<programme start="20230712223000 +0000" stop="20230712230000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S2 EP.46</title></programme>
+<programme start="20230712230000 +0000" stop="20230712232500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.43</title></programme>
+<programme start="20230712232500 +0000" stop="20230712235000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.44</title></programme>
+<programme start="20230712235000 +0000" stop="20230713001500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S3 EP.61</title></programme>
+<programme start="20230713001500 +0000" stop="20230713004000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S2 EP.35</title></programme>
+<programme start="20230713004000 +0000" stop="20230713010500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">All Hail King Julien S2 EP.35</title></programme>
+<programme start="20230713010500 +0000" stop="20230713013000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free S2 EP.35</title></programme>
+<programme start="20230713013000 +0000" stop="20230713020000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Where&apos;s Wally? S1 EP.9</title></programme>
+<programme start="20230713020000 +0000" stop="20230713023000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Go, Dog. Go! S1 EP.9</title></programme>
+<programme start="20230713023000 +0000" stop="20230713030000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Team Zenko Go S1 EP.9</title></programme>
+<programme start="20230713030000 +0000" stop="20230713033000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons Rescue Riders S1 EP.9</title></programme>
+<programme start="20230713033000 +0000" stop="20230713034500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Noddy Toyland Detective S1 EP.17</title></programme>
+<programme start="20230713034500 +0000" stop="20230713040000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Noddy Toyland Detective S1 EP.18</title></programme>
+<programme start="20230713040000 +0000" stop="20230713043000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Archibald&apos;s Next Big Thing is Here! S2 EP.35</title></programme>
+<programme start="20230713043000 +0000" stop="20230713050000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dawn of the Croods S1 EP.10</title></programme>
+<programme start="20230713050000 +0000" stop="20230713053000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free S2 EP.35</title></programme>
+<programme start="20230713053000 +0000" stop="20230713060000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Harvey Girls Forever S1 EP.9</title></programme>
+<programme start="20230713060000 +0000" stop="20230713063000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Turbo F.A.S.T S1 EP.9</title></programme>
+<programme start="20230713063000 +0000" stop="20230713070000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Team Zenko Go S1 EP.9</title></programme>
+<programme start="20230713070000 +0000" stop="20230713073000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Archibald&apos;s Next Big Thing is Here! S2 EP.35</title></programme>
+<programme start="20230713073000 +0000" stop="20230713080000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.21</title></programme>
+<programme start="20230713080000 +0000" stop="20230713082500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.29</title></programme>
+<programme start="20230713082500 +0000" stop="20230713085000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.11</title></programme>
+<programme start="20230713085000 +0000" stop="20230713091500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.21</title></programme>
+<programme start="20230713091500 +0000" stop="20230713094000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.22</title></programme>
+<programme start="20230713094000 +0000" stop="20230713100500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.21</title></programme>
+<programme start="20230713100500 +0000" stop="20230713103000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.22</title></programme>
+<programme start="20230713103000 +0000" stop="20230713105500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.21</title></programme>
+<programme start="20230713105500 +0000" stop="20230713112000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.23</title></programme>
+<programme start="20230713112000 +0000" stop="20230713114500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.11</title></programme>
+<programme start="20230713114500 +0000" stop="20230713121000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.22</title></programme>
+<programme start="20230713121000 +0000" stop="20230713123500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.21</title></programme>
+<programme start="20230713123500 +0000" stop="20230713130000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.29</title></programme>
+<programme start="20230713130000 +0000" stop="20230713132500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.11</title></programme>
+<programme start="20230713132500 +0000" stop="20230713135000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.21</title></programme>
+<programme start="20230713135000 +0000" stop="20230713141500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.22</title></programme>
+<programme start="20230713141500 +0000" stop="20230713144000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.21</title></programme>
+<programme start="20230713144000 +0000" stop="20230713150500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.22</title></programme>
+<programme start="20230713150500 +0000" stop="20230713153000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.21</title></programme>
+<programme start="20230713153000 +0000" stop="20230713155500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.23</title></programme>
+<programme start="20230713155500 +0000" stop="20230713162000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.11</title></programme>
+<programme start="20230713162000 +0000" stop="20230713164500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.22</title></programme>
+<programme start="20230713164500 +0000" stop="20230713171000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.11</title></programme>
+<programme start="20230713171000 +0000" stop="20230713173500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.29</title></programme>
+<programme start="20230713173500 +0000" stop="20230713180000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.11</title></programme>
+<programme start="20230713180000 +0000" stop="20230713181500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.93</title></programme>
+<programme start="20230713181500 +0000" stop="20230713183000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.94</title></programme>
+<programme start="20230713183000 +0000" stop="20230713184500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.95</title></programme>
+<programme start="20230713184500 +0000" stop="20230713190000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.96</title></programme>
+<programme start="20230713190000 +0000" stop="20230713191500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.41</title></programme>
+<programme start="20230713191500 +0000" stop="20230713193000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.42</title></programme>
+<programme start="20230713193000 +0000" stop="20230713194500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.43</title></programme>
+<programme start="20230713194500 +0000" stop="20230713200000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.44</title></programme>
+<programme start="20230713200000 +0000" stop="20230713201500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.41</title></programme>
+<programme start="20230713201500 +0000" stop="20230713203000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.42</title></programme>
+<programme start="20230713203000 +0000" stop="20230713204500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.43</title></programme>
+<programme start="20230713204500 +0000" stop="20230713210000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.44</title></programme>
+<programme start="20230713210000 +0000" stop="20230713211500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.41</title></programme>
+<programme start="20230713211500 +0000" stop="20230713213000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.42</title></programme>
+<programme start="20230713213000 +0000" stop="20230713214500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.43</title></programme>
+<programme start="20230713214500 +0000" stop="20230713220000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.44</title></programme>
+<programme start="20230713220000 +0000" stop="20230713223000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S2 EP.47</title></programme>
+<programme start="20230713223000 +0000" stop="20230713230000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.1</title></programme>
+<programme start="20230713230000 +0000" stop="20230713232500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.45</title></programme>
+<programme start="20230713232500 +0000" stop="20230713235000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.46</title></programme>
+<programme start="20230713235000 +0000" stop="20230714001500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S3 EP.62</title></programme>
+<programme start="20230714001500 +0000" stop="20230714004000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S2 EP.36</title></programme>
+<programme start="20230714004000 +0000" stop="20230714010500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">All Hail King Julien S2 EP.36</title></programme>
+<programme start="20230714010500 +0000" stop="20230714013000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free S2 EP.36</title></programme>
+<programme start="20230714013000 +0000" stop="20230714020000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Where&apos;s Wally? S1 EP.10</title></programme>
+<programme start="20230714020000 +0000" stop="20230714023000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Go, Dog. Go! S1 EP.10</title></programme>
+<programme start="20230714023000 +0000" stop="20230714030000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Team Zenko Go S1 EP.10</title></programme>
+<programme start="20230714030000 +0000" stop="20230714033000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons Rescue Riders S1 EP.10</title></programme>
+<programme start="20230714033000 +0000" stop="20230714034500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Noddy Toyland Detective S1 EP.19</title></programme>
+<programme start="20230714034500 +0000" stop="20230714040000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Noddy Toyland Detective S1 EP.20</title></programme>
+<programme start="20230714040000 +0000" stop="20230714043000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Archibald&apos;s Next Big Thing is Here! S2 EP.36</title></programme>
+<programme start="20230714043000 +0000" stop="20230714050000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dawn of the Croods S1 EP.11</title></programme>
+<programme start="20230714050000 +0000" stop="20230714053000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free S2 EP.36</title></programme>
+<programme start="20230714053000 +0000" stop="20230714060000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Harvey Girls Forever S1 EP.10</title></programme>
+<programme start="20230714060000 +0000" stop="20230714063000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Turbo F.A.S.T S1 EP.10</title></programme>
+<programme start="20230714063000 +0000" stop="20230714070000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Team Zenko Go S1 EP.10</title></programme>
+<programme start="20230714070000 +0000" stop="20230714073000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Archibald&apos;s Next Big Thing is Here! S2 EP.36</title></programme>
+<programme start="20230714073000 +0000" stop="20230714080000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.23</title></programme>
+<programme start="20230714080000 +0000" stop="20230714082500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.30</title></programme>
+<programme start="20230714082500 +0000" stop="20230714085000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.12</title></programme>
+<programme start="20230714085000 +0000" stop="20230714091500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.23</title></programme>
+<programme start="20230714091500 +0000" stop="20230714094000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.24</title></programme>
+<programme start="20230714094000 +0000" stop="20230714100500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.23</title></programme>
+<programme start="20230714100500 +0000" stop="20230714103000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.24</title></programme>
+<programme start="20230714103000 +0000" stop="20230714105500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.24</title></programme>
+<programme start="20230714105500 +0000" stop="20230714112000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.25</title></programme>
+<programme start="20230714112000 +0000" stop="20230714114500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.12</title></programme>
+<programme start="20230714114500 +0000" stop="20230714121000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.24</title></programme>
+<programme start="20230714121000 +0000" stop="20230714123500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.23</title></programme>
+<programme start="20230714123500 +0000" stop="20230714130000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.30</title></programme>
+<programme start="20230714130000 +0000" stop="20230714132500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.12</title></programme>
+<programme start="20230714132500 +0000" stop="20230714135000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.23</title></programme>
+<programme start="20230714135000 +0000" stop="20230714141500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.24</title></programme>
+<programme start="20230714141500 +0000" stop="20230714144000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.23</title></programme>
+<programme start="20230714144000 +0000" stop="20230714150500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.24</title></programme>
+<programme start="20230714150500 +0000" stop="20230714153000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.24</title></programme>
+<programme start="20230714153000 +0000" stop="20230714155500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.25</title></programme>
+<programme start="20230714155500 +0000" stop="20230714162000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.12</title></programme>
+<programme start="20230714162000 +0000" stop="20230714164500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.24</title></programme>
+<programme start="20230714164500 +0000" stop="20230714171000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.12</title></programme>
+<programme start="20230714171000 +0000" stop="20230714173500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.30</title></programme>
+<programme start="20230714173500 +0000" stop="20230714180000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.12</title></programme>
+<programme start="20230714180000 +0000" stop="20230714181500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.97</title></programme>
+<programme start="20230714181500 +0000" stop="20230714183000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.98</title></programme>
+<programme start="20230714183000 +0000" stop="20230714184500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.99</title></programme>
+<programme start="20230714184500 +0000" stop="20230714190000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Fifi and the Flowertots S2 EP.100</title></programme>
+<programme start="20230714190000 +0000" stop="20230714191500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.45</title></programme>
+<programme start="20230714191500 +0000" stop="20230714193000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.46</title></programme>
+<programme start="20230714193000 +0000" stop="20230714194500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.47</title></programme>
+<programme start="20230714194500 +0000" stop="20230714200000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Guess with Jess S1 EP.48</title></programme>
+<programme start="20230714200000 +0000" stop="20230714201500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.45</title></programme>
+<programme start="20230714201500 +0000" stop="20230714203000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.46</title></programme>
+<programme start="20230714203000 +0000" stop="20230714204500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.47</title></programme>
+<programme start="20230714204500 +0000" stop="20230714210000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Olivia S1 EP.48</title></programme>
+<programme start="20230714210000 +0000" stop="20230714211500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.45</title></programme>
+<programme start="20230714211500 +0000" stop="20230714213000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.46</title></programme>
+<programme start="20230714213000 +0000" stop="20230714214500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.47</title></programme>
+<programme start="20230714214500 +0000" stop="20230714220000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Tinga Tinga Tales S1 EP.48</title></programme>
+<programme start="20230714220000 +0000" stop="20230714223000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Go, Dog. Go! S1 EP.3</title></programme>
+<programme start="20230714223000 +0000" stop="20230714230000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Team Zenko Go S1 EP.3</title></programme>
+<programme start="20230714230000 +0000" stop="20230714232500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.5</title></programme>
+<programme start="20230714232500 +0000" stop="20230714235000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.6</title></programme>
+<programme start="20230714235000 +0000" stop="20230715001500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.5</title></programme>
+<programme start="20230715001500 +0000" stop="20230715004000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.6</title></programme>
+<programme start="20230715004000 +0000" stop="20230715010500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S3 EP.55</title></programme>
+<programme start="20230715010500 +0000" stop="20230715013000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trollhunters: Tales of Arcadia S1 EP.4</title></programme>
+<programme start="20230715013000 +0000" stop="20230715020000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trollhunters: Tales of Arcadia S1 EP.6</title></programme>
+<programme start="20230715020000 +0000" stop="20230715023000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.5</title></programme>
+<programme start="20230715023000 +0000" stop="20230715030000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.6</title></programme>
+<programme start="20230715030000 +0000" stop="20230715033000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Home: Adventures with Tip and Oh! S1 EP.3</title></programme>
+<programme start="20230715033000 +0000" stop="20230715040000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.23</title></programme>
+<programme start="20230715040000 +0000" stop="20230715043000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">All Hail King Julien: Exiled S3 EP.57</title></programme>
+<programme start="20230715043000 +0000" stop="20230715050000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">All Hail King Julien: Exiled S3 EP.58</title></programme>
+<programme start="20230715050000 +0000" stop="20230715053000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Cleopatra in Space S1 EP.5</title></programme>
+<programme start="20230715053000 +0000" stop="20230715060000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Cleopatra in Space S1 EP.7</title></programme>
+<programme start="20230715060000 +0000" stop="20230715063000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free: Riding Academy S3 EP.60</title></programme>
+<programme start="20230715063000 +0000" stop="20230715070000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Spirit Riding Free: Riding Academy S3 EP.61</title></programme>
+<programme start="20230715070000 +0000" stop="20230715073000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dawn of the Croods S1 EP.3</title></programme>
+<programme start="20230715073000 +0000" stop="20230715080000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.25</title></programme>
+<programme start="20230715080000 +0000" stop="20230715082500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Mighty Ones S2 EP.23</title></programme>
+<programme start="20230715082500 +0000" stop="20230715085000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Adventures of Puss in Boots S1 EP.13</title></programme>
+<programme start="20230715085000 +0000" stop="20230715091500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.25</title></programme>
+<programme start="20230715091500 +0000" stop="20230715094000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.26</title></programme>
+<programme start="20230715094000 +0000" stop="20230715100500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.25</title></programme>
+<programme start="20230715100500 +0000" stop="20230715103000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.26</title></programme>
+<programme start="20230715103000 +0000" stop="20230715105500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.26</title></programme>
+<programme start="20230715105500 +0000" stop="20230715112000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.1</title></programme>
+<programme start="20230715112000 +0000" stop="20230715114500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.13</title></programme>
+<programme start="20230715114500 +0000" stop="20230715120000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Puss in Boots: The Three Diablos EP.1</title></programme>
+<programme start="20230715120000 +0000" stop="20230715121500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Far Far Away Idol EP.1</title></programme>
+<programme start="20230715121500 +0000" stop="20230715124500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Shrek the Halls EP.1</title></programme>
+<programme start="20230715124500 +0000" stop="20230715130000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Donkey&apos;s Caroling Christmas-Tacular EP.1</title></programme>
+<programme start="20230715130000 +0000" stop="20230715131500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Ghost of Lord Farquaad EP.1</title></programme>
+<programme start="20230715131500 +0000" stop="20230715133000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Pig Who Cried Werewolf EP.1</title></programme>
+<programme start="20230715133000 +0000" stop="20230715134500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Hammy&apos;s Boomerang Adventure EP.1</title></programme>
+<programme start="20230715134500 +0000" stop="20230715141500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">The Epic Tales of Captain Underpants S1 EP.26</title></programme>
+<programme start="20230715141500 +0000" stop="20230715144000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.25</title></programme>
+<programme start="20230715144000 +0000" stop="20230715150500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Trolls: The Beat Goes On S1 EP.26</title></programme>
+<programme start="20230715150500 +0000" stop="20230715153000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S1 EP.26</title></programme>
+<programme start="20230715153000 +0000" stop="20230715155500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Boss Baby Back in Business S2 EP.1</title></programme>
+<programme start="20230715155500 +0000" stop="20230715162000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Kung Fu Panda: The Paws of Destiny S1 EP.13</title></programme>
+<programme start="20230715162000 +0000" stop="20230715164500 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.26</title></programme>
+<programme start="20230715164500 +0000" stop="20230715171000 +0000" channel="DreamWorksChannelAsia.us"><title lang="th">Dragons - Race to the Edge S1 EP.13</title></programme>
+
 <programme start="20230712170000 +0000" stop="20230712170500 +0000" channel="GMM25.th"><title lang="th">อสรมิตร (Rerun)</title></programme>
 <programme start="20230712170500 +0000" stop="20230712172500 +0000" channel="GMM25.th"><title lang="th">O SHOPPING</title></programme>
 <programme start="20230712172500 +0000" stop="20230712184500 +0000" channel="GMM25.th"><title lang="th">เจาะข่าวค่ำ (Rerun)</title></programme>
@@ -1659,6 +1856,91 @@
 <programme start="20230715150000 +0000" stop="20230715153000 +0000" channel="TV5HD.th"><title lang="th">ประเด็นเด่นสุดสัปดาห์</title></programme>
 <programme start="20230715153000 +0000" stop="20230715160000 +0000" channel="TV5HD.th"><title lang="th">ออโต้มอเตอร์</title></programme>
 <programme start="20230715160000 +0000" stop="20230714170000 +0000" channel="TV5HD.th"><title lang="th">เปิดโลกกว้างกับ ททบ.5</title></programme>
+<programme start="20230712173000 +0000" stop="20230712183000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230712183000 +0000" stop="20230712193000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230712193000 +0000" stop="20230712200000 +0000" channel="TVBXingHe.hk"><title lang="th">Kansai Raider</title></programme>
+<programme start="20230712200000 +0000" stop="20230712210000 +0000" channel="TVBXingHe.hk"><title lang="th">Friendly Fire</title></programme>
+<programme start="20230712210000 +0000" stop="20230712220000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230712220000 +0000" stop="20230712223000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230712223000 +0000" stop="20230712233000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230712233000 +0000" stop="20230713003000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230713003000 +0000" stop="20230713013000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230713013000 +0000" stop="20230713020000 +0000" channel="TVBXingHe.hk"><title lang="th">Kansai Raider</title></programme>
+<programme start="20230713020000 +0000" stop="20230713030000 +0000" channel="TVBXingHe.hk"><title lang="th">Friendly Fire</title></programme>
+<programme start="20230713030000 +0000" stop="20230713040000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713040000 +0000" stop="20230713043000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230713043000 +0000" stop="20230713053000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230713053000 +0000" stop="20230713063000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230713063000 +0000" stop="20230713073000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230713073000 +0000" stop="20230713080000 +0000" channel="TVBXingHe.hk"><title lang="th">Kansai Raider</title></programme>
+<programme start="20230713080000 +0000" stop="20230713090000 +0000" channel="TVBXingHe.hk"><title lang="th">Friendly Fire</title></programme>
+<programme start="20230713090000 +0000" stop="20230713100000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713100000 +0000" stop="20230713103000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230713103000 +0000" stop="20230713113000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230713113000 +0000" stop="20230713123000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230713123000 +0000" stop="20230713133000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230713133000 +0000" stop="20230713143000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713143000 +0000" stop="20230713153000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713153000 +0000" stop="20230713160000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230713160000 +0000" stop="20230713163000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230713163000 +0000" stop="20230713173000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230713173000 +0000" stop="20230713183000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230713183000 +0000" stop="20230713193000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230713193000 +0000" stop="20230713200000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230713200000 +0000" stop="20230713210000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713210000 +0000" stop="20230713220000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230713220000 +0000" stop="20230713223000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230713223000 +0000" stop="20230713233000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230713233000 +0000" stop="20230714003000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230714003000 +0000" stop="20230714013000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230714013000 +0000" stop="20230714020000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230714020000 +0000" stop="20230714030000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714030000 +0000" stop="20230714040000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714040000 +0000" stop="20230714043000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230714043000 +0000" stop="20230714053000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230714053000 +0000" stop="20230714063000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230714063000 +0000" stop="20230714073000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230714073000 +0000" stop="20230714080000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230714080000 +0000" stop="20230714090000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714090000 +0000" stop="20230714100000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714100000 +0000" stop="20230714103000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230714103000 +0000" stop="20230714113000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230714113000 +0000" stop="20230714123000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230714123000 +0000" stop="20230714133000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230714133000 +0000" stop="20230714143000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714143000 +0000" stop="20230714153000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714153000 +0000" stop="20230714160000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230714160000 +0000" stop="20230714163000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230714163000 +0000" stop="20230714173000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230714173000 +0000" stop="20230714183000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230714183000 +0000" stop="20230714193000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230714193000 +0000" stop="20230714200000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230714200000 +0000" stop="20230714210000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714210000 +0000" stop="20230714220000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230714220000 +0000" stop="20230714223000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230714223000 +0000" stop="20230714233000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230714233000 +0000" stop="20230715003000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230715003000 +0000" stop="20230715013000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230715013000 +0000" stop="20230715020000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230715020000 +0000" stop="20230715030000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230715030000 +0000" stop="20230715040000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230715040000 +0000" stop="20230715043000 +0000" channel="TVBXingHe.hk"><title lang="th">Bazaar Carnivals</title></programme>
+<programme start="20230715043000 +0000" stop="20230715053000 +0000" channel="TVBXingHe.hk"><title lang="th">A Loving Spirit</title></programme>
+<programme start="20230715053000 +0000" stop="20230715063000 +0000" channel="TVBXingHe.hk"><title lang="th">On-Lie Game</title></programme>
+<programme start="20230715063000 +0000" stop="20230715073000 +0000" channel="TVBXingHe.hk"><title lang="th">The Other Truth</title></programme>
+<programme start="20230715073000 +0000" stop="20230715080000 +0000" channel="TVBXingHe.hk"><title lang="th">12 Summers</title></programme>
+<programme start="20230715080000 +0000" stop="20230715090000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230715090000 +0000" stop="20230715100000 +0000" channel="TVBXingHe.hk"><title lang="th">Man of Wisdom</title></programme>
+<programme start="20230715100000 +0000" stop="20230715103000 +0000" channel="TVBXingHe.hk"><title lang="th">Roaming Siblings</title></programme>
+<programme start="20230715103000 +0000" stop="20230715113000 +0000" channel="TVBXingHe.hk"><title lang="th">Men with no Shadows</title></programme>
+<programme start="20230715113000 +0000" stop="20230715120000 +0000" channel="TVBXingHe.hk"><title lang="th">Epicurean Summer Girls</title></programme>
+<programme start="20230715120000 +0000" stop="20230715130000 +0000" channel="TVBXingHe.hk"><title lang="th">Let it be Love</title></programme>
+<programme start="20230715130000 +0000" stop="20230715140000 +0000" channel="TVBXingHe.hk"><title lang="th">Let it be Love</title></programme>
+<programme start="20230715140000 +0000" stop="20230715150000 +0000" channel="TVBXingHe.hk"><title lang="th">The Roughride</title></programme>
+<programme start="20230715150000 +0000" stop="20230715160000 +0000" channel="TVBXingHe.hk"><title lang="th">The Roughride</title></programme>
+<programme start="20230715160000 +0000" stop="20230715163000 +0000" channel="TVBXingHe.hk"><title lang="th">Roaming Siblings</title></programme>
+<programme start="20230715163000 +0000" stop="20230715173000 +0000" channel="TVBXingHe.hk"><title lang="th">Men with no Shadows</title></programme>
+
 <programme start="20230712170000 +0000" stop="20230712173000 +0000" channel="ThaiPBS.th"><title lang="th">ดูให้รู้</title></programme>
 <programme start="20230712173000 +0000" stop="20230712180000 +0000" channel="ThaiPBS.th"><title lang="th">ซีรีส์ วิถีคน</title></programme>
 <programme start="20230712180000 +0000" stop="20230712220000 +0000" channel="ThaiPBS.th"><title lang="th">ปิดสถานี</title></programme>
@@ -2143,6 +2425,87 @@
 <programme start="20230715130300 +0000" stop="20230715145000 +0000" channel="TrueChineseMore.th"><title lang="th">เกิดมาต้มตามพรหมลิขิต</title></programme>
 <programme start="20230715145000 +0000" stop="20230715170000 +0000" channel="TrueChineseMore.th"><title lang="th">บรูซ ลี เตะแรก ลั่นโลก</title></programme>
 
+<programme start="20230712173000 +0000" stop="20230712201000 +0000" channel="TrueFilmHD.th"><title lang="th">เล มิเซราบล์</title></programme>
+<programme start="20230712201000 +0000" stop="20230712223000 +0000" channel="TrueFilmHD.th"><title lang="th">ซีบิสกิต ม้าพิชิตโลก</title></programme>
+<programme start="20230712223000 +0000" stop="20230713003000 +0000" channel="TrueFilmHD.th"><title lang="th">มาร์แชล</title></programme>
+<programme start="20230713003000 +0000" stop="20230713023000 +0000" channel="TrueFilmHD.th"><title lang="th">ปล้นมหากาฬ</title></programme>
+<programme start="20230713023000 +0000" stop="20230713030000 +0000" channel="TrueFilmHD.th"><title lang="th">คัมมิ่งซูน 2023</title></programme>
+<programme start="20230713030000 +0000" stop="20230713051500 +0000" channel="TrueFilmHD.th"><title lang="th">เจอร์ซี่ย์ บอยส์ สี่หนุ่มเสียงทอง</title></programme>
+<programme start="20230713051500 +0000" stop="20230713073000 +0000" channel="TrueFilmHD.th"><title lang="th">มนุษย์ย่อไซส์</title></programme>
+<programme start="20230713073000 +0000" stop="20230713090000 +0000" channel="TrueFilmHD.th"><title lang="th">ปาร์ตี้นี้ 30 ป่วน</title></programme>
+<programme start="20230713090000 +0000" stop="20230713110000 +0000" channel="TrueFilmHD.th"><title lang="th">มาร์แชล</title></programme>
+<programme start="20230713110000 +0000" stop="20230713130300 +0000" channel="TrueFilmHD.th"><title lang="th">ปล้นมหากาฬ</title></programme>
+<programme start="20230713130300 +0000" stop="20230713151500 +0000" channel="TrueFilmHD.th"><title lang="th">ปลดแอก คนย่ำคน</title></programme>
+<programme start="20230713151500 +0000" stop="20230713171000 +0000" channel="TrueFilmHD.th"><title lang="th">ไอ โรบอท พิฆาตแผนจักรกลเขมือบโลก????</title></programme>
+<programme start="20230713171000 +0000" stop="20230713192500 +0000" channel="TrueFilmHD.th"><title lang="th">เจอร์ซี่ย์ บอยส์ สี่หนุ่มเสียงทอง</title></programme>
+<programme start="20230713192500 +0000" stop="20230713214000 +0000" channel="TrueFilmHD.th"><title lang="th">มนุษย์ย่อไซส์</title></programme>
+<programme start="20230713214000 +0000" stop="20230713231000 +0000" channel="TrueFilmHD.th"><title lang="th">ปาร์ตี้นี้ 30 ป่วน</title></programme>
+<programme start="20230713231000 +0000" stop="20230714012500 +0000" channel="TrueFilmHD.th"><title lang="th">ปลดแอก คนย่ำคน</title></programme>
+<programme start="20230714012500 +0000" stop="20230714032000 +0000" channel="TrueFilmHD.th"><title lang="th">ไอ โรบอท พิฆาตแผนจักรกลเขมือบโลก????</title></programme>
+<programme start="20230714032000 +0000" stop="20230714045500 +0000" channel="TrueFilmHD.th"><title lang="th">ไฟดับจับผี</title></programme>
+<programme start="20230714045500 +0000" stop="20230714071000 +0000" channel="TrueFilmHD.th"><title lang="th">ตำนานสุภาพบุรุษหัวใจชาติผยอง</title></programme>
+<programme start="20230714071000 +0000" stop="20230714085000 +0000" channel="TrueFilmHD.th"><title lang="th">วิญญาณ เห็น ตาย</title></programme>
+<programme start="20230714085000 +0000" stop="20230714110500 +0000" channel="TrueFilmHD.th"><title lang="th">ปลดแอก คนย่ำคน</title></programme>
+<programme start="20230714110500 +0000" stop="20230714130300 +0000" channel="TrueFilmHD.th"><title lang="th">ไอ โรบอท พิฆาตแผนจักรกลเขมือบโลก????</title></programme>
+<programme start="20230714130300 +0000" stop="20230714150000 +0000" channel="TrueFilmHD.th"><title lang="th">เดอะ บีช</title></programme>
+<programme start="20230714150000 +0000" stop="20230714171000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title></programme>
+<programme start="20230714171000 +0000" stop="20230714184500 +0000" channel="TrueFilmHD.th"><title lang="th">ไฟดับจับผี</title></programme>
+<programme start="20230714184500 +0000" stop="20230714210000 +0000" channel="TrueFilmHD.th"><title lang="th">ตำนานสุภาพบุรุษหัวใจชาติผยอง</title></programme>
+<programme start="20230714210000 +0000" stop="20230714224000 +0000" channel="TrueFilmHD.th"><title lang="th">วิญญาณ เห็น ตาย</title></programme>
+<programme start="20230714224000 +0000" stop="20230715004000 +0000" channel="TrueFilmHD.th"><title lang="th">เดอะ บีช</title></programme>
+<programme start="20230715004000 +0000" stop="20230715025000 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title></programme>
+<programme start="20230715025000 +0000" stop="20230715044000 +0000" channel="TrueFilmHD.th"><title lang="th">คุณยายสุดซ่า คุณตาสุดแสบ</title></programme>
+<programme start="20230715044000 +0000" stop="20230715061500 +0000" channel="TrueFilmHD.th"><title lang="th">ซูแลนเดอร์ เว่อร์ซะ</title></programme>
+<programme start="20230715061500 +0000" stop="20230715085000 +0000" channel="TrueFilmHD.th"><title lang="th">มหาบุรุษซามูไร</title></programme>
+<programme start="20230715085000 +0000" stop="20230715105000 +0000" channel="TrueFilmHD.th"><title lang="th">เดอะ บีช</title></programme>
+<programme start="20230715105000 +0000" stop="20230715130300 +0000" channel="TrueFilmHD.th"><title lang="th">ทีมพิฆาต ทะลุแดนเดือด</title></programme>
+<programme start="20230715130300 +0000" stop="20230715150000 +0000" channel="TrueFilmHD.th"><title lang="th">ล่าท้าอสูรนรก</title></programme>
+<programme start="20230715150000 +0000" stop="20230715171000 +0000" channel="TrueFilmHD.th"><title lang="th">ฆาตกรรมหรรษา ใครฆ่าคุณปู่</title></programme>
+
+<programme start="20230712184000 +0000" stop="20230712203000 +0000" channel="TrueFilmHD2.th"><title lang="th">แซ่บ ลวง โลก</title></programme>
+<programme start="20230712203000 +0000" stop="20230712222000 +0000" channel="TrueFilmHD2.th"><title lang="th">ฝันนี้เพื่อเป็นเกิร์ล</title></programme>
+<programme start="20230712222000 +0000" stop="20230713001000 +0000" channel="TrueFilmHD2.th"><title lang="th">จอมโจรสโนไวท์ กับราชินีบานฉ่ำ</title></programme>
+<programme start="20230713001000 +0000" stop="20230713021000 +0000" channel="TrueFilmHD2.th"><title lang="th">เชฟจ๋า</title></programme>
+<programme start="20230713021000 +0000" stop="20230713034000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์</title></programme>
+<programme start="20230713034000 +0000" stop="20230713051000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์ 2 ป่วนป่าแอฟริกา</title></programme>
+<programme start="20230713051000 +0000" stop="20230713065000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์ 3 ข้ามป่าไปซ่าส์ยุโรป</title></programme>
+<programme start="20230713065000 +0000" stop="20230713084000 +0000" channel="TrueFilmHD2.th"><title lang="th">สงครามคนแก่น กวนกระโหลก</title></programme>
+<programme start="20230713084000 +0000" stop="20230713103000 +0000" channel="TrueFilmHD2.th"><title lang="th">จอมโจรสโนไวท์ กับราชินีบานฉ่ำ</title></programme>
+<programme start="20230713103000 +0000" stop="20230713123000 +0000" channel="TrueFilmHD2.th"><title lang="th">เชฟจ๋า</title></programme>
+<programme start="20230713123000 +0000" stop="20230713130300 +0000" channel="TrueFilmHD2.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230713130300 +0000" stop="20230713150500 +0000" channel="TrueFilmHD2.th"><title lang="th">เดอะเม็กซิกัน พารักฝ่าควันปืน</title></programme>
+<programme start="20230713150500 +0000" stop="20230713164000 +0000" channel="TrueFilmHD2.th"><title lang="th">อธิฐานวุ่นลุ้นรัก ณ กรุงโรม</title></programme>
+<programme start="20230713164000 +0000" stop="20230713181000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์</title></programme>
+<programme start="20230713181000 +0000" stop="20230713194000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์ 2 ป่วนป่าแอฟริกา</title></programme>
+<programme start="20230713194000 +0000" stop="20230713212000 +0000" channel="TrueFilmHD2.th"><title lang="th">มาดากัสการ์ 3 ข้ามป่าไปซ่าส์ยุโรป</title></programme>
+<programme start="20230713212000 +0000" stop="20230713231000 +0000" channel="TrueFilmHD2.th"><title lang="th">สงครามคนแก่น กวนกระโหลก</title></programme>
+<programme start="20230713231000 +0000" stop="20230714011500 +0000" channel="TrueFilmHD2.th"><title lang="th">เดอะเม็กซิกัน พารักฝ่าควันปืน</title></programme>
+<programme start="20230714011500 +0000" stop="20230714025000 +0000" channel="TrueFilmHD2.th"><title lang="th">อธิฐานวุ่นลุ้นรัก ณ กรุงโรม</title></programme>
+<programme start="20230714025000 +0000" stop="20230714032000 +0000" channel="TrueFilmHD2.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230714032000 +0000" stop="20230714051000 +0000" channel="TrueFilmHD2.th"><title lang="th">ผู้หญิงหัวใจทรนง</title></programme>
+<programme start="20230714051000 +0000" stop="20230714070000 +0000" channel="TrueFilmHD2.th"><title lang="th">เฟอร์ดินานด์</title></programme>
+<programme start="20230714070000 +0000" stop="20230714085000 +0000" channel="TrueFilmHD2.th"><title lang="th">ปาฏิหาริย์จากสวรรค์</title></programme>
+<programme start="20230714085000 +0000" stop="20230714105500 +0000" channel="TrueFilmHD2.th"><title lang="th">เดอะเม็กซิกัน พารักฝ่าควันปืน</title></programme>
+<programme start="20230714105500 +0000" stop="20230714123000 +0000" channel="TrueFilmHD2.th"><title lang="th">อธิฐานวุ่นลุ้นรัก ณ กรุงโรม</title></programme>
+<programme start="20230714123000 +0000" stop="20230714130300 +0000" channel="TrueFilmHD2.th"><title lang="th">คัมมิ่งซูน 2023</title></programme>
+<programme start="20230714130300 +0000" stop="20230714151000 +0000" channel="TrueFilmHD2.th"><title lang="th">ระยะทางพิสูจน์รัก</title></programme>
+<programme start="20230714151000 +0000" stop="20230714164000 +0000" channel="TrueFilmHD2.th"><title lang="th">ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้</title></programme>
+<programme start="20230714164000 +0000" stop="20230714183000 +0000" channel="TrueFilmHD2.th"><title lang="th">ผู้หญิงหัวใจทรนง</title></programme>
+<programme start="20230714183000 +0000" stop="20230714202000 +0000" channel="TrueFilmHD2.th"><title lang="th">เฟอร์ดินานด์</title></programme>
+<programme start="20230714202000 +0000" stop="20230714221000 +0000" channel="TrueFilmHD2.th"><title lang="th">ปาฏิหาริย์จากสวรรค์</title></programme>
+<programme start="20230714221000 +0000" stop="20230715002000 +0000" channel="TrueFilmHD2.th"><title lang="th">ระยะทางพิสูจน์รัก</title></programme>
+<programme start="20230715002000 +0000" stop="20230715015000 +0000" channel="TrueFilmHD2.th"><title lang="th">ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้</title></programme>
+<programme start="20230715015000 +0000" stop="20230715022000 +0000" channel="TrueFilmHD2.th"><title lang="th">คัมมิ่งซูน 2023</title></programme>
+<programme start="20230715022000 +0000" stop="20230715040000 +0000" channel="TrueFilmHD2.th"><title lang="th">ฮอพ กระต่ายซูเปอร์จัมพ์</title></programme>
+<programme start="20230715040000 +0000" stop="20230715055000 +0000" channel="TrueFilmHD2.th"><title lang="th">มอร์เดอไค สายลับพยัคฆ์รั่วป่วนโลก</title></programme>
+<programme start="20230715055000 +0000" stop="20230715073500 +0000" channel="TrueFilmHD2.th"><title lang="th">ราโมนารักพี่ คนดีที่หนึ่งเลย</title></programme>
+<programme start="20230715073500 +0000" stop="20230715092000 +0000" channel="TrueFilmHD2.th"><title lang="th">กั๊กใจให้เพื่อนเลิฟ</title></programme>
+<programme start="20230715092000 +0000" stop="20230715113000 +0000" channel="TrueFilmHD2.th"><title lang="th">ระยะทางพิสูจน์รัก</title></programme>
+<programme start="20230715113000 +0000" stop="20230715130300 +0000" channel="TrueFilmHD2.th"><title lang="th">ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้</title></programme>
+<programme start="20230715130300 +0000" stop="20230715144500 +0000" channel="TrueFilmHD2.th"><title lang="th">เพื่อนบ้าน แก๊งป่วน ป้องโลก</title></programme>
+<programme start="20230715144500 +0000" stop="20230715164000 +0000" channel="TrueFilmHD2.th"><title lang="th">อภินิหารเข็มทิศทองคำ</title></programme>
+<programme start="20230715164000 +0000" stop="20230715182000 +0000" channel="TrueFilmHD2.th"><title lang="th">ฮอพ กระต่ายซูเปอร์จัมพ์</title></programme>
+
 <programme start="20230712170000 +0000" stop="20230712170100 +0000" channel="TrueKoreanMore.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
 <programme start="20230712170100 +0000" stop="20230712182000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.5</title></programme>
 <programme start="20230712182000 +0000" stop="20230712195000 +0000" channel="TrueKoreanMore.th"><title lang="th">สงครามเพนต์เฮาส์ ปี 3 EP.14</title></programme>
@@ -2206,6 +2569,354 @@
 <programme start="20230715130300 +0000" stop="20230715142000 +0000" channel="TrueKoreanMore.th"><title lang="th">ราชินีเอเจนซี EP.12</title></programme>
 <programme start="20230715142000 +0000" stop="20230715154000 +0000" channel="TrueKoreanMore.th"><title lang="th">เรื่องรัก...ของเราสามคน EP.2</title></programme>
 <programme start="20230715154000 +0000" stop="20230715170000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.4</title></programme>
+<programme start="20230712170000 +0000" stop="20230712183000 +0000" channel="TrueMovieHits.th"><title lang="th">ผีอำผวา</title></programme>
+<programme start="20230712183000 +0000" stop="20230712203000 +0000" channel="TrueMovieHits.th"><title lang="th">ปล้นข้ามโคตร</title></programme>
+<programme start="20230712203000 +0000" stop="20230712223000 +0000" channel="TrueMovieHits.th"><title lang="th">3 วันโคตรอันตราย</title></programme>
+<programme start="20230712223000 +0000" stop="20230713001500 +0000" channel="TrueMovieHits.th"><title lang="th">ปมมรณะซ่อนปมแค้น</title></programme>
+<programme start="20230713001500 +0000" stop="20230713015000 +0000" channel="TrueMovieHits.th"><title lang="th">ผีแอดเพื่อน</title></programme>
+<programme start="20230713015000 +0000" stop="20230713034000 +0000" channel="TrueMovieHits.th"><title lang="th">2 โคตรพยัคฆ์ผู้ยิ่งใหญ่</title></programme>
+<programme start="20230713034000 +0000" stop="20230713054000 +0000" channel="TrueMovieHits.th"><title lang="th">ปล้นข้ามโคตร</title></programme>
+<programme start="20230713054000 +0000" stop="20230713075000 +0000" channel="TrueMovieHits.th"><title lang="th">แผนล่าทรชนข้ามโลก</title></programme>
+<programme start="20230713075000 +0000" stop="20230713093000 +0000" channel="TrueMovieHits.th"><title lang="th">พยัคฆ์ทรชนปล้นข้ามโลก</title></programme>
+<programme start="20230713093000 +0000" stop="20230713110000 +0000" channel="TrueMovieHits.th"><title lang="th">แบลร์ วิทช์ ตำนานผีดุ</title></programme>
+<programme start="20230713110000 +0000" stop="20230713130300 +0000" channel="TrueMovieHits.th"><title lang="th">3 วันโคตรอันตราย</title></programme>
+<programme start="20230713130300 +0000" stop="20230713143500 +0000" channel="TrueMovieHits.th"><title lang="th">มนุษย์พลังฟ้าผ่า</title></programme>
+<programme start="20230713143500 +0000" stop="20230713163500 +0000" channel="TrueMovieHits.th"><title lang="th">สวยสะบัดสังหาร</title></programme>
+<programme start="20230713163500 +0000" stop="20230713184500 +0000" channel="TrueMovieHits.th"><title lang="th">แผนล่าทรชนข้ามโลก</title></programme>
+<programme start="20230713184500 +0000" stop="20230713202000 +0000" channel="TrueMovieHits.th"><title lang="th">มนุษย์พลังฟ้าผ่า</title></programme>
+<programme start="20230713202000 +0000" stop="20230713222000 +0000" channel="TrueMovieHits.th"><title lang="th">สวยสะบัดสังหาร</title></programme>
+<programme start="20230713222000 +0000" stop="20230714003000 +0000" channel="TrueMovieHits.th"><title lang="th">แผนล่าทรชนข้ามโลก</title></programme>
+<programme start="20230714003000 +0000" stop="20230714021000 +0000" channel="TrueMovieHits.th"><title lang="th">พยัคฆ์ทรชนปล้นข้ามโลก</title></programme>
+<programme start="20230714021000 +0000" stop="20230714034000 +0000" channel="TrueMovieHits.th"><title lang="th">แบลร์ วิทช์ ตำนานผีดุ</title></programme>
+<programme start="20230714034000 +0000" stop="20230714051500 +0000" channel="TrueMovieHits.th"><title lang="th">มนุษย์พลังฟ้าผ่า</title></programme>
+<programme start="20230714051500 +0000" stop="20230714071000 +0000" channel="TrueMovieHits.th"><title lang="th">พันธุ์แสบยกตระกูล</title></programme>
+<programme start="20230714071000 +0000" stop="20230714091000 +0000" channel="TrueMovieHits.th"><title lang="th">ปราสาทสีเลือด</title></programme>
+<programme start="20230714091000 +0000" stop="20230714110000 +0000" channel="TrueMovieHits.th"><title lang="th">ปิด สน. โจรดวลโจร</title></programme>
+<programme start="20230714110000 +0000" stop="20230714130300 +0000" channel="TrueMovieHits.th"><title lang="th">สวยสะบัดสังหาร</title></programme>
+<programme start="20230714130300 +0000" stop="20230714151000 +0000" channel="TrueMovieHits.th"><title lang="th">จอห์น วิค แรงกว่านรก 3</title></programme>
+<programme start="20230714151000 +0000" stop="20230714164500 +0000" channel="TrueMovieHits.th"><title lang="th">เดร็ด คนหน้ากากทมิฬ</title></programme>
+<programme start="20230714164500 +0000" stop="20230714184000 +0000" channel="TrueMovieHits.th"><title lang="th">พันธุ์แสบยกตระกูล</title></programme>
+<programme start="20230714184000 +0000" stop="20230714205000 +0000" channel="TrueMovieHits.th"><title lang="th">จอห์น วิค แรงกว่านรก 3</title></programme>
+<programme start="20230714205000 +0000" stop="20230714222500 +0000" channel="TrueMovieHits.th"><title lang="th">เดร็ด คนหน้ากากทมิฬ</title></programme>
+<programme start="20230714222500 +0000" stop="20230715002000 +0000" channel="TrueMovieHits.th"><title lang="th">พันธุ์แสบยกตระกูล</title></programme>
+<programme start="20230715002000 +0000" stop="20230715022000 +0000" channel="TrueMovieHits.th"><title lang="th">ปราสาทสีเลือด</title></programme>
+<programme start="20230715022000 +0000" stop="20230715041000 +0000" channel="TrueMovieHits.th"><title lang="th">ปิด สน. โจรดวลโจร</title></programme>
+<programme start="20230715041000 +0000" stop="20230715062000 +0000" channel="TrueMovieHits.th"><title lang="th">จอห์น วิค แรงกว่านรก 3</title></programme>
+<programme start="20230715062000 +0000" stop="20230715075500 +0000" channel="TrueMovieHits.th"><title lang="th">มือฆ่าเอโพดำ</title></programme>
+<programme start="20230715075500 +0000" stop="20230715093000 +0000" channel="TrueMovieHits.th"><title lang="th">หยุดวิบัติ ไวรัสซอมบี้</title></programme>
+<programme start="20230715093000 +0000" stop="20230715112500 +0000" channel="TrueMovieHits.th"><title lang="th">นรกเรียกแม่</title></programme>
+<programme start="20230715112500 +0000" stop="20230715130300 +0000" channel="TrueMovieHits.th"><title lang="th">เดร็ด คนหน้ากากทมิฬ</title></programme>
+<programme start="20230715130300 +0000" stop="20230715144500 +0000" channel="TrueMovieHits.th"><title lang="th">ดุกระแทกเดือด</title></programme>
+<programme start="20230715144500 +0000" stop="20230715151500 +0000" channel="TrueMovieHits.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230715151500 +0000" stop="20230715165500 +0000" channel="TrueMovieHits.th"><title lang="th">บ้านช็อคสุดถนน</title></programme>
+<programme start="20230715165500 +0000" stop="20230715183000 +0000" channel="TrueMovieHits.th"><title lang="th">มือฆ่าเอโพดำ</title></programme>
+
+<programme start="20230712170000 +0000" stop="20230712170100 +0000" channel="TrueSeries.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230712170100 +0000" stop="20230712180000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230712180000 +0000" stop="20230712190000 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.8</title></programme>
+<programme start="20230712190000 +0000" stop="20230712200000 +0000" channel="TrueSeries.th"><title lang="th">ทรอย วิบัติแห่งเมือง EP.8</title></programme>
+<programme start="20230712200000 +0000" stop="20230712210000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.1</title></programme>
+<programme start="20230712210000 +0000" stop="20230712220000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.2</title></programme>
+<programme start="20230712220000 +0000" stop="20230712230000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230712230000 +0000" stop="20230713000000 +0000" channel="TrueSeries.th"><title lang="th">พรีเชอร์ ปี 2 EP.12</title></programme>
+<programme start="20230713000000 +0000" stop="20230713010000 +0000" channel="TrueSeries.th"><title lang="th">หน่วยพิฆาตสายฟ้าฟาด ปี 5 EP.16</title></programme>
+<programme start="20230713010000 +0000" stop="20230713020000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.1</title></programme>
+<programme start="20230713020000 +0000" stop="20230713030000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.2</title></programme>
+<programme start="20230713030000 +0000" stop="20230713040000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230713040000 +0000" stop="20230713050000 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.8</title></programme>
+<programme start="20230713050000 +0000" stop="20230713060000 +0000" channel="TrueSeries.th"><title lang="th">ทรอย วิบัติแห่งเมือง EP.8</title></programme>
+<programme start="20230713060000 +0000" stop="20230713070000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.1</title></programme>
+<programme start="20230713070000 +0000" stop="20230713080000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.2</title></programme>
+<programme start="20230713080000 +0000" stop="20230713090000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230713090000 +0000" stop="20230713100000 +0000" channel="TrueSeries.th"><title lang="th">พรีเชอร์ ปี 2 EP.12</title></programme>
+<programme start="20230713100000 +0000" stop="20230713110000 +0000" channel="TrueSeries.th"><title lang="th">หน่วยพิฆาตสายฟ้าฟาด ปี 5 EP.16</title></programme>
+<programme start="20230713110000 +0000" stop="20230713113000 +0000" channel="TrueSeries.th"><title lang="th">คิมมี่ ชมิดต์ ผู้แข็งแกร่ง ปี 4 EP.1</title></programme>
+<programme start="20230713113000 +0000" stop="20230713120000 +0000" channel="TrueSeries.th"><title lang="th">คิมมี่ ชมิดต์ ผู้แข็งแกร่ง ปี 4 EP.2</title></programme>
+<programme start="20230713120000 +0000" stop="20230713130300 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.8</title></programme>
+<programme start="20230713130300 +0000" stop="20230713140500 +0000" channel="TrueSeries.th"><title lang="th">ทรอย วิบัติแห่งเมือง EP.8</title></programme>
+<programme start="20230713140500 +0000" stop="20230713150000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.2</title></programme>
+<programme start="20230713150000 +0000" stop="20230713160000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.1</title></programme>
+<programme start="20230713160000 +0000" stop="20230713170000 +0000" channel="TrueSeries.th"><title lang="th">เดอะ คอมมอนส์ ปี 1 EP.2</title></programme>
+<programme start="20230713170000 +0000" stop="20230713170100 +0000" channel="TrueSeries.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230713170100 +0000" stop="20230713180000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.2</title></programme>
+<programme start="20230713180000 +0000" stop="20230713190000 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.9</title></programme>
+<programme start="20230713190000 +0000" stop="20230713200000 +0000" channel="TrueSeries.th"><title lang="th">พีกี้ ไบลน์เดอร์ส ปี 4 EP.1</title></programme>
+<programme start="20230713200000 +0000" stop="20230713210000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.3</title></programme>
+<programme start="20230713210000 +0000" stop="20230713220000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.4</title></programme>
+<programme start="20230713220000 +0000" stop="20230713230000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.2</title></programme>
+<programme start="20230713230000 +0000" stop="20230714000000 +0000" channel="TrueSeries.th"><title lang="th">พรีเชอร์ ปี 2 EP.13</title></programme>
+<programme start="20230714000000 +0000" stop="20230714010000 +0000" channel="TrueSeries.th"><title lang="th">หน่วยพิฆาตสายฟ้าฟาด ปี 5 EP.17</title></programme>
+<programme start="20230714010000 +0000" stop="20230714020000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.3</title></programme>
+<programme start="20230714020000 +0000" stop="20230714030000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.4</title></programme>
+<programme start="20230714030000 +0000" stop="20230714040000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.2</title></programme>
+<programme start="20230714040000 +0000" stop="20230714050000 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.9</title></programme>
+<programme start="20230714050000 +0000" stop="20230714060000 +0000" channel="TrueSeries.th"><title lang="th">พีกี้ ไบลน์เดอร์ส ปี 4 EP.1</title></programme>
+<programme start="20230714060000 +0000" stop="20230714070000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.3</title></programme>
+<programme start="20230714070000 +0000" stop="20230714080000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.4</title></programme>
+<programme start="20230714080000 +0000" stop="20230714090000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.2</title></programme>
+<programme start="20230714090000 +0000" stop="20230714100000 +0000" channel="TrueSeries.th"><title lang="th">พรีเชอร์ ปี 2 EP.13</title></programme>
+<programme start="20230714100000 +0000" stop="20230714110000 +0000" channel="TrueSeries.th"><title lang="th">หน่วยพิฆาตสายฟ้าฟาด ปี 5 EP.17</title></programme>
+<programme start="20230714110000 +0000" stop="20230714113000 +0000" channel="TrueSeries.th"><title lang="th">คิมมี่ ชมิดต์ ผู้แข็งแกร่ง ปี 4 EP.2</title></programme>
+<programme start="20230714113000 +0000" stop="20230714121000 +0000" channel="TrueSeries.th"><title lang="th">คิมมี่ ชมิดต์ ผู้แข็งแกร่ง ปี 4 EP.3</title></programme>
+<programme start="20230714121000 +0000" stop="20230714130300 +0000" channel="TrueSeries.th"><title lang="th">ภารกิจล่าข้ามกาลเวลา ปี 2 EP.9</title></programme>
+<programme start="20230714130300 +0000" stop="20230714140500 +0000" channel="TrueSeries.th"><title lang="th">พีกี้ ไบลน์เดอร์ส ปี 4 EP.1</title></programme>
+<programme start="20230714140500 +0000" stop="20230714150000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.3</title></programme>
+<programme start="20230714150000 +0000" stop="20230714160000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.3</title></programme>
+<programme start="20230714160000 +0000" stop="20230714170000 +0000" channel="TrueSeries.th"><title lang="th">ทิน สตาร์ ปี 1 EP.4</title></programme>
+<programme start="20230714170000 +0000" stop="20230714170100 +0000" channel="TrueSeries.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230714170100 +0000" stop="20230714180000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.3</title></programme>
+<programme start="20230714180000 +0000" stop="20230714190000 +0000" channel="TrueSeries.th"><title lang="th">ก๊วนวุ่นลุ้นรัก ปี 6 EP.11</title></programme>
+<programme start="20230714190000 +0000" stop="20230714200000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230714200000 +0000" stop="20230714210000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.8</title></programme>
+<programme start="20230714210000 +0000" stop="20230714220000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.9</title></programme>
+<programme start="20230714220000 +0000" stop="20230714230000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.3</title></programme>
+<programme start="20230714230000 +0000" stop="20230715000000 +0000" channel="TrueSeries.th"><title lang="th">ก๊วนวุ่นลุ้นรัก ปี 6 EP.11</title></programme>
+<programme start="20230715000000 +0000" stop="20230715010000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230715010000 +0000" stop="20230715020000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.8</title></programme>
+<programme start="20230715020000 +0000" stop="20230715030000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.9</title></programme>
+<programme start="20230715030000 +0000" stop="20230715040000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.3</title></programme>
+<programme start="20230715040000 +0000" stop="20230715050000 +0000" channel="TrueSeries.th"><title lang="th">ก๊วนวุ่นลุ้นรัก ปี 6 EP.11</title></programme>
+<programme start="20230715050000 +0000" stop="20230715060000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230715060000 +0000" stop="20230715070000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.8</title></programme>
+<programme start="20230715070000 +0000" stop="20230715080000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.9</title></programme>
+<programme start="20230715080000 +0000" stop="20230715090000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.3</title></programme>
+<programme start="20230715090000 +0000" stop="20230715100000 +0000" channel="TrueSeries.th"><title lang="th">ก๊วนวุ่นลุ้นรัก ปี 6 EP.11</title></programme>
+<programme start="20230715100000 +0000" stop="20230715110000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230715110000 +0000" stop="20230715114000 +0000" channel="TrueSeries.th"><title lang="th">คิมมี่ ชมิดต์ ผู้แข็งแกร่ง ปี 4 EP.3</title></programme>
+<programme start="20230715114000 +0000" stop="20230715121000 +0000" channel="TrueSeries.th"><title lang="th">ยู มี เฮอร์ รักเธอทั้งสองคน ปี 2 EP.9</title></programme>
+<programme start="20230715121000 +0000" stop="20230715130300 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.8</title></programme>
+<programme start="20230715130300 +0000" stop="20230715140000 +0000" channel="TrueSeries.th"><title lang="th">ฝังรัก กัดสยอง ปี 2 EP.9</title></programme>
+<programme start="20230715140000 +0000" stop="20230715150000 +0000" channel="TrueSeries.th"><title lang="th">เก้าแขกแปลกหน้า EP.4</title></programme>
+<programme start="20230715150000 +0000" stop="20230715160000 +0000" channel="TrueSeries.th"><title lang="th">ก๊วนวุ่นลุ้นรัก ปี 6 EP.11</title></programme>
+<programme start="20230715160000 +0000" stop="20230715170000 +0000" channel="TrueSeries.th"><title lang="th">อะเลิร์ท ปี 1 EP.1</title></programme>
+<programme start="20230712171000 +0000" stop="20230712191500 +0000" channel="TrueThaiFilm.th"><title lang="th">เวลา</title></programme>
+<programme start="20230712191500 +0000" stop="20230712211500 +0000" channel="TrueThaiFilm.th"><title lang="th">หยาดพิรุณ</title></programme>
+<programme start="20230712211500 +0000" stop="20230712231500 +0000" channel="TrueThaiFilm.th"><title lang="th">ไอฟาย..แต๊งกิ้ว..เลิฟยู้</title></programme>
+<programme start="20230712231500 +0000" stop="20230713013000 +0000" channel="TrueThaiFilm.th"><title lang="th">ไผ่แดง</title></programme>
+<programme start="20230713013000 +0000" stop="20230713031000 +0000" channel="TrueThaiFilm.th"><title lang="th">ลาง หลอก หลอน</title></programme>
+<programme start="20230713031000 +0000" stop="20230713045500 +0000" channel="TrueThaiFilm.th"><title lang="th">ม.6/5 ปากหมาท้าผี</title></programme>
+<programme start="20230713045500 +0000" stop="20230713065000 +0000" channel="TrueThaiFilm.th"><title lang="th">ปาฏิหาริย์แก้วนาคราช</title></programme>
+<programme start="20230713065000 +0000" stop="20230713085500 +0000" channel="TrueThaiFilm.th"><title lang="th">หยาดพิรุณ</title></programme>
+<programme start="20230713085500 +0000" stop="20230713112000 +0000" channel="TrueThaiFilm.th"><title lang="th">ทวิภพ</title></programme>
+<programme start="20230713112000 +0000" stop="20230713130300 +0000" channel="TrueThaiFilm.th"><title lang="th">ท่าแร่ ยูไนเต็ด</title></programme>
+<programme start="20230713130300 +0000" stop="20230713150000 +0000" channel="TrueThaiFilm.th"><title lang="th">หลวงพี่กะอีปอบ</title></programme>
+<programme start="20230713150000 +0000" stop="20230713164000 +0000" channel="TrueThaiFilm.th"><title lang="th">ยายสั่งมาใหญ่</title></programme>
+<programme start="20230713164000 +0000" stop="20230713181500 +0000" channel="TrueThaiFilm.th"><title lang="th">ศพไม่เงียบ</title></programme>
+<programme start="20230713181500 +0000" stop="20230713201000 +0000" channel="TrueThaiFilm.th"><title lang="th">หลวงพี่กะอีปอบ</title></programme>
+<programme start="20230713201000 +0000" stop="20230713220000 +0000" channel="TrueThaiFilm.th"><title lang="th">อมนุษย์</title></programme>
+<programme start="20230713220000 +0000" stop="20230714000000 +0000" channel="TrueThaiFilm.th"><title lang="th">ฮาร์ทบีท เสี่ยงนัก...รักมั้ยลุง</title></programme>
+<programme start="20230714000000 +0000" stop="20230714013500 +0000" channel="TrueThaiFilm.th"><title lang="th">พันธุ์ X เด็กสุดขั้ว</title></programme>
+<programme start="20230714013500 +0000" stop="20230714032500 +0000" channel="TrueThaiFilm.th"><title lang="th">โคลิค เด็กเห็นผี</title></programme>
+<programme start="20230714032500 +0000" stop="20230714045500 +0000" channel="TrueThaiFilm.th"><title lang="th">โปรแกรมหน้า..วิญญาณอาฆาต</title></programme>
+<programme start="20230714045500 +0000" stop="20230714065500 +0000" channel="TrueThaiFilm.th"><title lang="th">มนต์เพลงลูกทุ่ง เอฟ.เอ็ม.</title></programme>
+<programme start="20230714065500 +0000" stop="20230714085000 +0000" channel="TrueThaiFilm.th"><title lang="th">หลวงพี่กะอีปอบ</title></programme>
+<programme start="20230714085000 +0000" stop="20230714105000 +0000" channel="TrueThaiFilm.th"><title lang="th">มหา&apos;ลัย เหมืองแร่</title></programme>
+<programme start="20230714105000 +0000" stop="20230714130300 +0000" channel="TrueThaiFilm.th"><title lang="th">มนต์รักทรานซิสเตอร์</title></programme>
+<programme start="20230714130300 +0000" stop="20230714145000 +0000" channel="TrueThaiFilm.th"><title lang="th">ผ้าผีบอก</title></programme>
+<programme start="20230714145000 +0000" stop="20230714165000 +0000" channel="TrueThaiFilm.th"><title lang="th">ส้มป่อย</title></programme>
+<programme start="20230714165000 +0000" stop="20230714182000 +0000" channel="TrueThaiFilm.th"><title lang="th">ผู้บ่าวไทบ้าน อีสานอินดี้</title></programme>
+<programme start="20230714182000 +0000" stop="20230714200500 +0000" channel="TrueThaiFilm.th"><title lang="th">ผ้าผีบอก</title></programme>
+<programme start="20230714200500 +0000" stop="20230714221000 +0000" channel="TrueThaiFilm.th"><title lang="th">สารวัตรหมาบ้า</title></programme>
+<programme start="20230714221000 +0000" stop="20230715002000 +0000" channel="TrueThaiFilm.th"><title lang="th">รักเอย</title></programme>
+<programme start="20230715002000 +0000" stop="20230715023000 +0000" channel="TrueThaiFilm.th"><title lang="th">วัยสวิง</title></programme>
+<programme start="20230715023000 +0000" stop="20230715043000 +0000" channel="TrueThaiFilm.th"><title lang="th">สติแตกสุดขั้วโลก</title></programme>
+<programme start="20230715043000 +0000" stop="20230715064000 +0000" channel="TrueThaiFilm.th"><title lang="th">รักหนูมั้ย</title></programme>
+<programme start="20230715064000 +0000" stop="20230715082500 +0000" channel="TrueThaiFilm.th"><title lang="th">ผ้าผีบอก</title></programme>
+<programme start="20230715082500 +0000" stop="20230715103000 +0000" channel="TrueThaiFilm.th"><title lang="th">บ่มีวันจาก</title></programme>
+<programme start="20230715103000 +0000" stop="20230715123000 +0000" channel="TrueThaiFilm.th"><title lang="th">บุญชู ผู้น่ารัก</title></programme>
+<programme start="20230715123000 +0000" stop="20230715130300 +0000" channel="TrueThaiFilm.th"><title lang="th">เดอะไกด์ 2023</title></programme>
+<programme start="20230715130300 +0000" stop="20230715145000 +0000" channel="TrueThaiFilm.th"><title lang="th">หนูหิ่น เดอะมูฟวี่</title></programme>
+<programme start="20230715145000 +0000" stop="20230715163000 +0000" channel="TrueThaiFilm.th"><title lang="th">ไข่-ขวัญ วันฮักหมดใจ</title></programme>
+<programme start="20230715163000 +0000" stop="20230715183000 +0000" channel="TrueThaiFilm.th"><title lang="th">สามชุก</title></programme>
+
+<programme start="20230712170000 +0000" stop="20230712170100 +0000" channel="TrueXZyte.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230712170100 +0000" stop="20230712173000 +0000" channel="TrueXZyte.th"><title lang="th">ซุปตาร์จานเด็ด ปี 2 EP.2</title></programme>
+<programme start="20230712173000 +0000" stop="20230712182500 +0000" channel="TrueXZyte.th"><title lang="th">สัตว์ประหลาดหวาดผวา EP.10</title></programme>
+<programme start="20230712182500 +0000" stop="20230712185500 +0000" channel="TrueXZyte.th"><title lang="th">อิ่มอร่อยจานเด็ด ปี 3 EP.20</title></programme>
+<programme start="20230712185500 +0000" stop="20230712194500 +0000" channel="TrueXZyte.th"><title lang="th">เจแปนนีสเกมซ่าส์ ปี 2 EP.4</title></programme>
+<programme start="20230712194500 +0000" stop="20230712204500 +0000" channel="TrueXZyte.th"><title lang="th">วีคลี่ไอดอล ปี 3 EP.28</title></programme>
+<programme start="20230712204500 +0000" stop="20230712221500 +0000" channel="TrueXZyte.th"><title lang="th">รันนิ่งแมน ปี 11 EP.43</title></programme>
+<programme start="20230712221500 +0000" stop="20230712230000 +0000" channel="TrueXZyte.th"><title lang="th">อเมริกา...แข่งเก่งแข่งกึ๋น ปี 16 EP.15</title></programme>
+<programme start="20230712230000 +0000" stop="20230712235500 +0000" channel="TrueXZyte.th"><title lang="th">มหัศจรรย์คนเข้าครัว ปี 11 EP.12</title></programme>
+<programme start="20230712235500 +0000" stop="20230713005000 +0000" channel="TrueXZyte.th"><title lang="th">บ๊าย บาย ...ความแก่ ปี 1 EP.2</title></programme>
+<programme start="20230713005000 +0000" stop="20230713012000 +0000" channel="TrueXZyte.th"><title lang="th">ส่องวิถีนักล่า EP.9</title></programme>
+<programme start="20230713012000 +0000" stop="20230713030000 +0000" channel="TrueXZyte.th"><title lang="th">คู่หูกอล์ฟซ่าส์ EP.14</title></programme>
+<programme start="20230713030000 +0000" stop="20230713033000 +0000" channel="TrueXZyte.th"><title lang="th">ซุปตาร์จานเด็ด ปี 2 EP.2</title></programme>
+<programme start="20230713033000 +0000" stop="20230713042500 +0000" channel="TrueXZyte.th"><title lang="th">สัตว์ประหลาดหวาดผวา EP.10</title></programme>
+<programme start="20230713042500 +0000" stop="20230713045500 +0000" channel="TrueXZyte.th"><title lang="th">อิ่มอร่อยจานเด็ด ปี 3 EP.20</title></programme>
+<programme start="20230713045500 +0000" stop="20230713054500 +0000" channel="TrueXZyte.th"><title lang="th">เจแปนนีสเกมซ่าส์ ปี 2 EP.4</title></programme>
+<programme start="20230713054500 +0000" stop="20230713064500 +0000" channel="TrueXZyte.th"><title lang="th">วีคลี่ไอดอล ปี 3 EP.28</title></programme>
+<programme start="20230713064500 +0000" stop="20230713081500 +0000" channel="TrueXZyte.th"><title lang="th">รันนิ่งแมน ปี 10 EP.9</title></programme>
+<programme start="20230713081500 +0000" stop="20230713090000 +0000" channel="TrueXZyte.th"><title lang="th">สกี ระทึก! EP.9</title></programme>
+<programme start="20230713090000 +0000" stop="20230713095000 +0000" channel="TrueXZyte.th"><title lang="th">กระตุกต่อมฮาอเมริกา ปี 32 EP.1</title></programme>
+<programme start="20230713095000 +0000" stop="20230713104000 +0000" channel="TrueXZyte.th"><title lang="th">หน้าเด็ก สุดปัง! ปี 2 EP.13</title></programme>
+<programme start="20230713104000 +0000" stop="20230713111000 +0000" channel="TrueXZyte.th"><title lang="th">ไฮๆฮอกไกโด ปี 2 EP.27</title></programme>
+<programme start="20230713111000 +0000" stop="20230713130300 +0000" channel="TrueXZyte.th"><title lang="th">คู่หูกอล์ฟซ่าส์ EP.15</title></programme>
+<programme start="20230713130300 +0000" stop="20230713143000 +0000" channel="TrueXZyte.th"><title lang="th">อินกิกาโย ไลฟ์ เคป็อป ปี 16 EP.36</title></programme>
+<programme start="20230713143000 +0000" stop="20230713154000 +0000" channel="TrueXZyte.th"><title lang="th">มิวสิคสเตชั่น ปี 19 EP.17</title></programme>
+<programme start="20230713154000 +0000" stop="20230713163000 +0000" channel="TrueXZyte.th"><title lang="th">ระทึก!กล้องจับเหตุ ปี 2 EP.6</title></programme>
+<programme start="20230713163000 +0000" stop="20230713170000 +0000" channel="TrueXZyte.th"><title lang="th">สมบัติสุดล้ำ EP.3</title></programme>
+<programme start="20230713170000 +0000" stop="20230713170100 +0000" channel="TrueXZyte.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230713170100 +0000" stop="20230713181000 +0000" channel="TrueXZyte.th"><title lang="th">อินกิกาโย ไลฟ์ เคป็อป ปี 16 EP.36</title></programme>
+<programme start="20230713181000 +0000" stop="20230713183500 +0000" channel="TrueXZyte.th"><title lang="th">สมบัติสุดล้ำ EP.5</title></programme>
+<programme start="20230713183500 +0000" stop="20230713194500 +0000" channel="TrueXZyte.th"><title lang="th">มิวสิคสเตชั่น ปี 19 EP.17</title></programme>
+<programme start="20230713194500 +0000" stop="20230713203500 +0000" channel="TrueXZyte.th"><title lang="th">ระทึก!กล้องจับเหตุ ปี 2 EP.6</title></programme>
+<programme start="20230713203500 +0000" stop="20230713210000 +0000" channel="TrueXZyte.th"><title lang="th">สมบัติสุดล้ำ EP.3</title></programme>
+<programme start="20230713210000 +0000" stop="20230713223000 +0000" channel="TrueXZyte.th"><title lang="th">รันนิ่งแมน ปี 10 EP.9</title></programme>
+<programme start="20230713223000 +0000" stop="20230713232000 +0000" channel="TrueXZyte.th"><title lang="th">สกี ระทึก! EP.9</title></programme>
+<programme start="20230713232000 +0000" stop="20230714001000 +0000" channel="TrueXZyte.th"><title lang="th">กระตุกต่อมฮาอเมริกา ปี 32 EP.1</title></programme>
+<programme start="20230714001000 +0000" stop="20230714010000 +0000" channel="TrueXZyte.th"><title lang="th">หน้าเด็ก สุดปัง! ปี 2 EP.13</title></programme>
+<programme start="20230714010000 +0000" stop="20230714012500 +0000" channel="TrueXZyte.th"><title lang="th">ไฮๆฮอกไกโด ปี 2 EP.27</title></programme>
+<programme start="20230714012500 +0000" stop="20230714031500 +0000" channel="TrueXZyte.th"><title lang="th">คู่หูกอล์ฟซ่าส์ EP.15</title></programme>
+<programme start="20230714031500 +0000" stop="20230714042500 +0000" channel="TrueXZyte.th"><title lang="th">อินกิกาโย ไลฟ์ เคป็อป ปี 16 EP.36</title></programme>
+<programme start="20230714042500 +0000" stop="20230714053500 +0000" channel="TrueXZyte.th"><title lang="th">มิวสิคสเตชั่น ปี 19 EP.17</title></programme>
+<programme start="20230714053500 +0000" stop="20230714063000 +0000" channel="TrueXZyte.th"><title lang="th">ระทึก!กล้องจับเหตุ ปี 2 EP.6</title></programme>
+<programme start="20230714063000 +0000" stop="20230714080000 +0000" channel="TrueXZyte.th"><title lang="th">รันนิ่งแมน ปี 10 EP.10</title></programme>
+<programme start="20230714080000 +0000" stop="20230714090000 +0000" channel="TrueXZyte.th"><title lang="th">เชฟมือโปร ปี 3 EP.7</title></programme>
+<programme start="20230714090000 +0000" stop="20230714100000 +0000" channel="TrueXZyte.th"><title lang="th">ฮีโร่! ระทึกโลก EP.2</title></programme>
+<programme start="20230714100000 +0000" stop="20230714110000 +0000" channel="TrueXZyte.th"><title lang="th">แฟมิลี่ฟู้ดครอบครัวจานเด็ด EP.6</title></programme>
+<programme start="20230714110000 +0000" stop="20230714113000 +0000" channel="TrueXZyte.th"><title lang="th">ไฮๆฮอกไกโด ปี 2 EP.28</title></programme>
+<programme start="20230714113000 +0000" stop="20230714130300 +0000" channel="TrueXZyte.th"><title lang="th">ปรุงจานเด็ด สไตล์เกาหลี EP.7</title></programme>
+<programme start="20230714130300 +0000" stop="20230714140000 +0000" channel="TrueXZyte.th"><title lang="th">เชฟจานเด็ด EP.6</title></programme>
+<programme start="20230714140000 +0000" stop="20230714150000 +0000" channel="TrueXZyte.th"><title lang="th">มหัศจรรย์คนเข้าครัว ปี 12/2 EP.6</title></programme>
+<programme start="20230714150000 +0000" stop="20230714160000 +0000" channel="TrueXZyte.th"><title lang="th">หน้าเด็ก สุดปัง EP.1</title></programme>
+<programme start="20230714160000 +0000" stop="20230714163000 +0000" channel="TrueXZyte.th"><title lang="th">สงครามขนส่ง ปี 8 EP.1</title></programme>
+<programme start="20230714163000 +0000" stop="20230714170000 +0000" channel="TrueXZyte.th"><title lang="th">ส่องวิถีนักล่า EP.20</title></programme>
+<programme start="20230714170000 +0000" stop="20230714170100 +0000" channel="TrueXZyte.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230714170100 +0000" stop="20230714180000 +0000" channel="TrueXZyte.th"><title lang="th">เชฟจานเด็ด EP.6</title></programme>
+<programme start="20230714180000 +0000" stop="20230714190000 +0000" channel="TrueXZyte.th"><title lang="th">มหัศจรรย์คนเข้าครัว ปี 12/2 EP.6</title></programme>
+<programme start="20230714190000 +0000" stop="20230714200000 +0000" channel="TrueXZyte.th"><title lang="th">หน้าเด็ก สุดปัง EP.1</title></programme>
+<programme start="20230714200000 +0000" stop="20230714203000 +0000" channel="TrueXZyte.th"><title lang="th">สงครามขนส่ง ปี 8 EP.1</title></programme>
+<programme start="20230714203000 +0000" stop="20230714210000 +0000" channel="TrueXZyte.th"><title lang="th">ส่องวิถีนักล่า EP.20</title></programme>
+<programme start="20230714210000 +0000" stop="20230714223000 +0000" channel="TrueXZyte.th"><title lang="th">รันนิ่งแมน ปี 10 EP.10</title></programme>
+<programme start="20230714223000 +0000" stop="20230714232000 +0000" channel="TrueXZyte.th"><title lang="th">เชฟมือโปร ปี 3 EP.7</title></programme>
+<programme start="20230714232000 +0000" stop="20230715001000 +0000" channel="TrueXZyte.th"><title lang="th">ฮีโร่! ระทึกโลก EP.2</title></programme>
+<programme start="20230715001000 +0000" stop="20230715010000 +0000" channel="TrueXZyte.th"><title lang="th">แฟมิลี่ฟู้ดครอบครัวจานเด็ด EP.6</title></programme>
+<programme start="20230715010000 +0000" stop="20230715013000 +0000" channel="TrueXZyte.th"><title lang="th">ไฮๆฮอกไกโด ปี 2 EP.28</title></programme>
+<programme start="20230715013000 +0000" stop="20230715030500 +0000" channel="TrueXZyte.th"><title lang="th">ปรุงจานเด็ด สไตล์เกาหลี EP.7</title></programme>
+<programme start="20230715030500 +0000" stop="20230715040000 +0000" channel="TrueXZyte.th"><title lang="th">เชฟจานเด็ด EP.6</title></programme>
+<programme start="20230715040000 +0000" stop="20230715050000 +0000" channel="TrueXZyte.th"><title lang="th">มหัศจรรย์คนเข้าครัว ปี 12/2 EP.6</title></programme>
+<programme start="20230715050000 +0000" stop="20230715060000 +0000" channel="TrueXZyte.th"><title lang="th">หน้าเด็ก สุดปัง EP.1</title></programme>
+<programme start="20230715060000 +0000" stop="20230715063000 +0000" channel="TrueXZyte.th"><title lang="th">สงครามขนส่ง ปี 8 EP.1</title></programme>
+<programme start="20230715063000 +0000" stop="20230715070000 +0000" channel="TrueXZyte.th"><title lang="th">ส่องวิถีนักล่า EP.20</title></programme>
+<programme start="20230715070000 +0000" stop="20230715080000 +0000" channel="TrueXZyte.th"><title lang="th">ปริ้นซิเพิ้ลทรัมพ์การ์ด ทายซิอะไรเอ่ย EP.26</title></programme>
+<programme start="20230715080000 +0000" stop="20230715083000 +0000" channel="TrueXZyte.th"><title lang="th">อิ่มอร่อยจานเด็ด ปี 3 EP.4</title></programme>
+<programme start="20230715083000 +0000" stop="20230715100000 +0000" channel="TrueXZyte.th"><title lang="th">ปรุงจานเด็ด สไตล์เกาหลี EP.24</title></programme>
+<programme start="20230715100000 +0000" stop="20230715110000 +0000" channel="TrueXZyte.th"><title lang="th">30/10 ภารกิจท้าเสียว EP.10</title></programme>
+<programme start="20230715110000 +0000" stop="20230715120000 +0000" channel="TrueXZyte.th"><title lang="th">ชีวิตสุดแซ่บ:คาร์เดเชียน ปี 20 EP.10</title></programme>
+<programme start="20230715120000 +0000" stop="20230715130300 +0000" channel="TrueXZyte.th"><title lang="th">ลูคัส นักล่าสมบัติ EP.5</title></programme>
+<programme start="20230715130300 +0000" stop="20230715140000 +0000" channel="TrueXZyte.th"><title lang="th">อาราชิ โชว์ ปี 2 EP.10</title></programme>
+<programme start="20230715140000 +0000" stop="20230715150000 +0000" channel="TrueXZyte.th"><title lang="th">วีคลี่ไอดอล ปี 4 EP.29</title></programme>
+<programme start="20230715150000 +0000" stop="20230715153000 +0000" channel="TrueXZyte.th"><title lang="th">สนุกสุดฟิน เรดเวลเวต EP.3</title></programme>
+<programme start="20230715153000 +0000" stop="20230715160000 +0000" channel="TrueXZyte.th"><title lang="th">ไฮๆฮอกไกโด ปี 2 EP.30</title></programme>
+<programme start="20230715160000 +0000" stop="20230715170000 +0000" channel="TrueXZyte.th"><title lang="th">อาหารจานด่วนเลิศรส ปี 2 EP.5</title></programme>
+<programme start="20230712171000 +0000" stop="20230712181000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.4</title></programme>
+<programme start="20230712181000 +0000" stop="20230712185000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.7</title></programme>
+<programme start="20230712185000 +0000" stop="20230712193500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.7</title></programme>
+<programme start="20230712193500 +0000" stop="20230712202000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.17</title></programme>
+<programme start="20230712202000 +0000" stop="20230712211000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.13</title></programme>
+<programme start="20230712211000 +0000" stop="20230712220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.7</title></programme>
+<programme start="20230712220000 +0000" stop="20230712225500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.5</title></programme>
+<programme start="20230712225500 +0000" stop="20230712235000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title></programme>
+<programme start="20230712235000 +0000" stop="20230713003500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.8</title></programme>
+<programme start="20230713003500 +0000" stop="20230713012000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.18</title></programme>
+<programme start="20230713012000 +0000" stop="20230713020500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.14</title></programme>
+<programme start="20230713020500 +0000" stop="20230713030000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.5</title></programme>
+<programme start="20230713030000 +0000" stop="20230713032500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.4</title></programme>
+<programme start="20230713032500 +0000" stop="20230713035000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.26</title></programme>
+<programme start="20230713035000 +0000" stop="20230713044000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Winchesters S1 EP.2</title></programme>
+<programme start="20230713044000 +0000" stop="20230713053000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.7</title></programme>
+<programme start="20230713053000 +0000" stop="20230713055500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Big Bang Theory S11 EP.2</title></programme>
+<programme start="20230713055500 +0000" stop="20230713062000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.8</title></programme>
+<programme start="20230713062000 +0000" stop="20230713071500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.5</title></programme>
+<programme start="20230713071500 +0000" stop="20230713074000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.4</title></programme>
+<programme start="20230713074000 +0000" stop="20230713080500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.26</title></programme>
+<programme start="20230713080500 +0000" stop="20230713085000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.14</title></programme>
+<programme start="20230713085000 +0000" stop="20230713094000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.18</title></programme>
+<programme start="20230713094000 +0000" stop="20230713103500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title></programme>
+<programme start="20230713103500 +0000" stop="20230713112000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.14</title></programme>
+<programme start="20230713112000 +0000" stop="20230713114500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Big Bang Theory S11 EP.2</title></programme>
+<programme start="20230713114500 +0000" stop="20230713121000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.8</title></programme>
+<programme start="20230713121000 +0000" stop="20230713123500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.4</title></programme>
+<programme start="20230713123500 +0000" stop="20230713130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.26</title></programme>
+<programme start="20230713130000 +0000" stop="20230713132500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect EP.1</title></programme>
+<programme start="20230713132500 +0000" stop="20230713135000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect Special: Exposed</title></programme>
+<programme start="20230713135000 +0000" stop="20230713144000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S15 EP.6</title></programme>
+<programme start="20230713144000 +0000" stop="20230713150500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect EP.1</title></programme>
+<programme start="20230713150500 +0000" stop="20230713153000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect Special: Exposed</title></programme>
+<programme start="20230713153000 +0000" stop="20230713174000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Hitman&apos;s Wife&apos;s Bodyguard EP.1</title></programme>
+<programme start="20230713174000 +0000" stop="20230713180000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.24</title></programme>
+<programme start="20230713180000 +0000" stop="20230713184500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.8</title></programme>
+<programme start="20230713184500 +0000" stop="20230713191000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.4</title></programme>
+<programme start="20230713191000 +0000" stop="20230713193500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.26</title></programme>
+<programme start="20230713193500 +0000" stop="20230713202000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gossip Girl S1 EP.18</title></programme>
+<programme start="20230713202000 +0000" stop="20230713211500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title></programme>
+<programme start="20230713211500 +0000" stop="20230713220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.8</title></programme>
+<programme start="20230713220000 +0000" stop="20230713230000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.6</title></programme>
+<programme start="20230713230000 +0000" stop="20230713234500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.2</title></programme>
+<programme start="20230713234500 +0000" stop="20230714003000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.9</title></programme>
+<programme start="20230714003000 +0000" stop="20230714011500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Lethal Weapon S1 EP.1</title></programme>
+<programme start="20230714011500 +0000" stop="20230714020000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.15</title></programme>
+<programme start="20230714020000 +0000" stop="20230714030000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.6</title></programme>
+<programme start="20230714030000 +0000" stop="20230714032500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230714032500 +0000" stop="20230714035000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230714035000 +0000" stop="20230714041500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect EP.1</title></programme>
+<programme start="20230714041500 +0000" stop="20230714044000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect Special: Exposed</title></programme>
+<programme start="20230714044000 +0000" stop="20230714053000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S15 EP.6</title></programme>
+<programme start="20230714053000 +0000" stop="20230714055500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Big Bang Theory S11 EP.3</title></programme>
+<programme start="20230714055500 +0000" stop="20230714062000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.9</title></programme>
+<programme start="20230714062000 +0000" stop="20230714072000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.6</title></programme>
+<programme start="20230714072000 +0000" stop="20230714074500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230714074500 +0000" stop="20230714081000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230714081000 +0000" stop="20230714085500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.15</title></programme>
+<programme start="20230714085500 +0000" stop="20230714094000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Lethal Weapon S1 EP.1</title></programme>
+<programme start="20230714094000 +0000" stop="20230714103000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.2</title></programme>
+<programme start="20230714103000 +0000" stop="20230714112000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Flash S7 EP.15</title></programme>
+<programme start="20230714112000 +0000" stop="20230714114500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Big Bang Theory S11 EP.3</title></programme>
+<programme start="20230714114500 +0000" stop="20230714121000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.9</title></programme>
+<programme start="20230714121000 +0000" stop="20230714123500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230714123500 +0000" stop="20230714130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230714130000 +0000" stop="20230714151000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Hitman&apos;s Wife&apos;s Bodyguard EP.1</title></programme>
+<programme start="20230714151000 +0000" stop="20230714153000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.9</title></programme>
+<programme start="20230714153000 +0000" stop="20230714155500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230714155500 +0000" stop="20230714162000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230714162000 +0000" stop="20230714164500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Big Bang Theory S11 EP.3</title></programme>
+<programme start="20230714164500 +0000" stop="20230714171000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.9</title></programme>
+<programme start="20230714171000 +0000" stop="20230714181000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Pennyworth S2 EP.6</title></programme>
+<programme start="20230714181000 +0000" stop="20230714185000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.9</title></programme>
+<programme start="20230714185000 +0000" stop="20230714191500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230714191500 +0000" stop="20230714194000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230714194000 +0000" stop="20230714202500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Lethal Weapon S1 EP.1</title></programme>
+<programme start="20230714202500 +0000" stop="20230714211000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.2</title></programme>
+<programme start="20230714211000 +0000" stop="20230714220000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">World&apos;s Dumbest S17 EP.9</title></programme>
+<programme start="20230714220000 +0000" stop="20230714225000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.11</title></programme>
+<programme start="20230714225000 +0000" stop="20230714234000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.12</title></programme>
+<programme start="20230714234000 +0000" stop="20230715003000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Stargirl S3 EP.13</title></programme>
+<programme start="20230715003000 +0000" stop="20230715012500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.1</title></programme>
+<programme start="20230715012500 +0000" stop="20230715021500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Gotham S1 EP.2</title></programme>
+<programme start="20230715021500 +0000" stop="20230715024000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.1</title></programme>
+<programme start="20230715024000 +0000" stop="20230715030500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.2</title></programme>
+<programme start="20230715030500 +0000" stop="20230715033000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.3</title></programme>
+<programme start="20230715033000 +0000" stop="20230715035500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.4</title></programme>
+<programme start="20230715035500 +0000" stop="20230715042500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.5</title></programme>
+<programme start="20230715042500 +0000" stop="20230715062500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Eight Legged Freaks</title></programme>
+<programme start="20230715062500 +0000" stop="20230715071500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Kung Fu S3 EP.7</title></programme>
+<programme start="20230715071500 +0000" stop="20230715074000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.23</title></programme>
+<programme start="20230715074000 +0000" stop="20230715080500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.24</title></programme>
+<programme start="20230715080500 +0000" stop="20230715083000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.25</title></programme>
+<programme start="20230715083000 +0000" stop="20230715085500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S4 EP.26</title></programme>
+<programme start="20230715085500 +0000" stop="20230715094500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Rizzoli &amp; Isles S1 EP.5</title></programme>
+<programme start="20230715094500 +0000" stop="20230715101500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">The Carbonaro Effect S5 EP.1</title></programme>
+<programme start="20230715101500 +0000" stop="20230715104500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.5</title></programme>
+<programme start="20230715104500 +0000" stop="20230715111500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.6</title></programme>
+<programme start="20230715111500 +0000" stop="20230715130000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Red Riding Hood</title></programme>
+<programme start="20230715130000 +0000" stop="20230715144500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Till Death EP.1</title></programme>
+<programme start="20230715144500 +0000" stop="20230715153500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">East New York S1 EP.15</title></programme>
+<programme start="20230715153500 +0000" stop="20230715160000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.7</title></programme>
+<programme start="20230715160000 +0000" stop="20230715162500 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.8</title></programme>
+<programme start="20230715162500 +0000" stop="20230715165000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Young Sheldon S5 EP.9</title></programme>
+<programme start="20230715165000 +0000" stop="20230715172000 +0000" channel="WarnerTVSoutheastAsia.us"><title lang="th">Storage Hunters S1 EP.1</title></programme>
+
 <programme start="20230712170000 +0000" stop="20230712172500 +0000" channel="Workpoint23.th"><title lang="th">TV DIRECT Shopping</title></programme>
 <programme start="20230712172500 +0000" stop="20230712180000 +0000" channel="Workpoint23.th"><title lang="th">ชิงร้อยชิงล้าน ว้าว ว้าว ว้าว รีรัน</title></programme>
 <programme start="20230712180000 +0000" stop="20230712182500 +0000" channel="Workpoint23.th"><title lang="th">TV DIRECT Shopping</title></programme>
