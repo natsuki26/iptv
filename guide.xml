@@ -21,6 +21,9 @@
 <channel id="ThairathTV.th"><display-name>Thiarath TV</display-name><icon src="https://i.imgur.com/ArasZJO.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="TopNews.th"><display-name>Top News</display-name><icon src="https://i.imgur.com/YuDZ0ec.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <channel id="True4U.th"><display-name>True 4U</display-name><icon src="https://i.imgur.com/tXb8NiE.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueAsianMore.th"><display-name>True Asian More</display-name><icon src="https://i.imgur.com/lahGZ0y.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueChineseMore.th"><display-name>True Chinese More</display-name><icon src="https://i.imgur.com/FyIzz0l.png"/><url>https://tv.trueid.net</url></channel>
+<channel id="TrueKoreanMore.th"><display-name>True Korean More</display-name><icon src="https://i.imgur.com/Gfn2L5S.png"/><url>https://tv.trueid.net</url></channel>
 <channel id="Workpoint23.th"><display-name>Workpoint</display-name><icon src="https://i.imgur.com/oxf6BRn.png"/><url>https://gigatv.3bb.co.th</url></channel>
 <programme start="20230712230000 +0000" stop="20230712231000 +0000" channel="ALTV.th"><title lang="th">นิทานแสนสนุก</title></programme>
 <programme start="20230712231000 +0000" stop="20230712231700 +0000" channel="ALTV.th"><title lang="th">Fit in 5 โตไปทุกวัน</title></programme>
@@ -2024,6 +2027,185 @@
 <programme start="20230715140000 +0000" stop="20230715160000 +0000" channel="True4U.th"><title lang="th">ภาพยนตร์ ผีห่าอโยธยา</title></programme>
 <programme start="20230715160000 +0000" stop="20230715180000 +0000" channel="True4U.th"><title lang="th">ภาพนตร์ ฅนไฟบิน</title></programme>
 
+<programme start="20230712170000 +0000" stop="20230712180000 +0000" channel="TrueAsianMore.th"><title lang="th">เถ้ามธุรส EP.7</title></programme>
+<programme start="20230712180000 +0000" stop="20230712190000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.13</title></programme>
+<programme start="20230712190000 +0000" stop="20230712200000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.1</title></programme>
+<programme start="20230712200000 +0000" stop="20230712211500 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.11</title></programme>
+<programme start="20230712211500 +0000" stop="20230712221000 +0000" channel="TrueAsianMore.th"><title lang="th">พยัคฆ์ร้ายสาย[ส]ลับ EP.7</title></programme>
+<programme start="20230712221000 +0000" stop="20230712230500 +0000" channel="TrueAsianMore.th"><title lang="th">บก.สาว กับ แฟนหนุ่มหน้าหวาน EP.8</title></programme>
+<programme start="20230712230500 +0000" stop="20230713000000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.13</title></programme>
+<programme start="20230713000000 +0000" stop="20230713010000 +0000" channel="TrueAsianMore.th"><title lang="th">เถ้ามธุรส EP.7</title></programme>
+<programme start="20230713010000 +0000" stop="20230713020000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.1</title></programme>
+<programme start="20230713020000 +0000" stop="20230713030000 +0000" channel="TrueAsianMore.th"><title lang="th">คิมิโกะ หญิงสาวเครื่องปั้นดินเผา EP.9</title></programme>
+<programme start="20230713030000 +0000" stop="20230713035500 +0000" channel="TrueAsianMore.th"><title lang="th">คิมิโกะ หญิงสาวเครื่องปั้นดินเผา EP.10</title></programme>
+<programme start="20230713035500 +0000" stop="20230713045000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.13</title></programme>
+<programme start="20230713045000 +0000" stop="20230713054500 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.1</title></programme>
+<programme start="20230713054500 +0000" stop="20230713070000 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.11</title></programme>
+<programme start="20230713070000 +0000" stop="20230713075500 +0000" channel="TrueAsianMore.th"><title lang="th">พยัคฆ์ร้ายสาย[ส]ลับ EP.7</title></programme>
+<programme start="20230713075500 +0000" stop="20230713084500 +0000" channel="TrueAsianMore.th"><title lang="th">บก.สาว กับ แฟนหนุ่มหน้าหวาน EP.8</title></programme>
+<programme start="20230713084500 +0000" stop="20230713095500 +0000" channel="TrueAsianMore.th"><title lang="th">Kiss me รักล้นใจนายแกล้งจุ๊บ EP.20</title></programme>
+<programme start="20230713095500 +0000" stop="20230713105000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.1</title></programme>
+<programme start="20230713105000 +0000" stop="20230713114500 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.1</title></programme>
+<programme start="20230713114500 +0000" stop="20230713130300 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.11</title></programme>
+<programme start="20230713130300 +0000" stop="20230713140000 +0000" channel="TrueAsianMore.th"><title lang="th">พยัคฆ์ร้ายสาย[ส]ลับ EP.8</title></programme>
+<programme start="20230713140000 +0000" stop="20230713150000 +0000" channel="TrueAsianMore.th"><title lang="th">บก.สาว กับ แฟนหนุ่มหน้าหวาน EP.9</title></programme>
+<programme start="20230713150000 +0000" stop="20230713160000 +0000" channel="TrueAsianMore.th"><title lang="th">Kiss me รักล้นใจนายแกล้งจุ๊บ EP.20</title></programme>
+<programme start="20230713160000 +0000" stop="20230713170000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.1</title></programme>
+<programme start="20230713170000 +0000" stop="20230713180000 +0000" channel="TrueAsianMore.th"><title lang="th">เถ้ามธุรส EP.8</title></programme>
+<programme start="20230713180000 +0000" stop="20230713190000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.14</title></programme>
+<programme start="20230713190000 +0000" stop="20230713200000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.2</title></programme>
+<programme start="20230713200000 +0000" stop="20230713211500 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.12</title></programme>
+<programme start="20230713211500 +0000" stop="20230713221000 +0000" channel="TrueAsianMore.th"><title lang="th">พยัคฆ์ร้ายสาย[ส]ลับ EP.8</title></programme>
+<programme start="20230713221000 +0000" stop="20230713230500 +0000" channel="TrueAsianMore.th"><title lang="th">บก.สาว กับ แฟนหนุ่มหน้าหวาน EP.9</title></programme>
+<programme start="20230713230500 +0000" stop="20230714000000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.14</title></programme>
+<programme start="20230714000000 +0000" stop="20230714010000 +0000" channel="TrueAsianMore.th"><title lang="th">เถ้ามธุรส EP.8</title></programme>
+<programme start="20230714010000 +0000" stop="20230714020000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.2</title></programme>
+<programme start="20230714020000 +0000" stop="20230714030000 +0000" channel="TrueAsianMore.th"><title lang="th">Kiss me รักล้นใจนายแกล้งจุ๊บ EP.20</title></programme>
+<programme start="20230714030000 +0000" stop="20230714040000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.1</title></programme>
+<programme start="20230714040000 +0000" stop="20230714050000 +0000" channel="TrueAsianMore.th"><title lang="th">รักใช่ไหมที่หัวใจต้องการ EP.14</title></programme>
+<programme start="20230714050000 +0000" stop="20230714060000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.2</title></programme>
+<programme start="20230714060000 +0000" stop="20230714071500 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.12</title></programme>
+<programme start="20230714071500 +0000" stop="20230714081000 +0000" channel="TrueAsianMore.th"><title lang="th">พยัคฆ์ร้ายสาย[ส]ลับ EP.8</title></programme>
+<programme start="20230714081000 +0000" stop="20230714090500 +0000" channel="TrueAsianMore.th"><title lang="th">บก.สาว กับ แฟนหนุ่มหน้าหวาน EP.9</title></programme>
+<programme start="20230714090500 +0000" stop="20230714100000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.2</title></programme>
+<programme start="20230714100000 +0000" stop="20230714105500 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.3</title></programme>
+<programme start="20230714105500 +0000" stop="20230714115000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.2</title></programme>
+<programme start="20230714115000 +0000" stop="20230714130300 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.12</title></programme>
+<programme start="20230714130300 +0000" stop="20230714140000 +0000" channel="TrueAsianMore.th"><title lang="th">Thank You Teacher EP.7</title></programme>
+<programme start="20230714140000 +0000" stop="20230714150000 +0000" channel="TrueAsianMore.th"><title lang="th">สื่อหัวใจ Eicu EP.28</title></programme>
+<programme start="20230714150000 +0000" stop="20230714160000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.2</title></programme>
+<programme start="20230714160000 +0000" stop="20230714170000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.3</title></programme>
+<programme start="20230714170000 +0000" stop="20230714180000 +0000" channel="TrueAsianMore.th"><title lang="th">นักรบพเนจรสุดขอบฟ้า EP.5</title></programme>
+<programme start="20230714180000 +0000" stop="20230714190000 +0000" channel="TrueAsianMore.th"><title lang="th">ปริศนาล่าข้ามเวลา EP.13</title></programme>
+<programme start="20230714190000 +0000" stop="20230714200000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.3</title></programme>
+<programme start="20230714200000 +0000" stop="20230714210000 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.13</title></programme>
+<programme start="20230714210000 +0000" stop="20230714220000 +0000" channel="TrueAsianMore.th"><title lang="th">Thank You Teacher EP.7</title></programme>
+<programme start="20230714220000 +0000" stop="20230714230000 +0000" channel="TrueAsianMore.th"><title lang="th">สื่อหัวใจ Eicu EP.28</title></programme>
+<programme start="20230714230000 +0000" stop="20230715000000 +0000" channel="TrueAsianMore.th"><title lang="th">ปริศนาล่าข้ามเวลา EP.13</title></programme>
+<programme start="20230715000000 +0000" stop="20230715010000 +0000" channel="TrueAsianMore.th"><title lang="th">นักรบพเนจรสุดขอบฟ้า EP.5</title></programme>
+<programme start="20230715010000 +0000" stop="20230715020000 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.3</title></programme>
+<programme start="20230715020000 +0000" stop="20230715025500 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.2</title></programme>
+<programme start="20230715025500 +0000" stop="20230715035000 +0000" channel="TrueAsianMore.th"><title lang="th">เชฟหรรษาซ่าป่วนขั้วโลกใต้ EP.3</title></programme>
+<programme start="20230715035000 +0000" stop="20230715050000 +0000" channel="TrueAsianMore.th"><title lang="th">ปริศนาล่าข้ามเวลา EP.13</title></programme>
+<programme start="20230715050000 +0000" stop="20230715055500 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.3</title></programme>
+<programme start="20230715055500 +0000" stop="20230715070500 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.13</title></programme>
+<programme start="20230715070500 +0000" stop="20230715080500 +0000" channel="TrueAsianMore.th"><title lang="th">Thank You Teacher EP.7</title></programme>
+<programme start="20230715080500 +0000" stop="20230715090000 +0000" channel="TrueAsianMore.th"><title lang="th">สื่อหัวใจ Eicu EP.28</title></programme>
+<programme start="20230715090000 +0000" stop="20230715095500 +0000" channel="TrueAsianMore.th"><title lang="th">อวลรักลิขิตสวรรค์ EP.2</title></programme>
+<programme start="20230715095500 +0000" stop="20230715105000 +0000" channel="TrueAsianMore.th"><title lang="th">อวลรักลิขิตสวรรค์ EP.3</title></programme>
+<programme start="20230715105000 +0000" stop="20230715114500 +0000" channel="TrueAsianMore.th"><title lang="th">ซ่างหยาง ลำนำหงส์ลิขิตบัลลังก์ EP.3</title></programme>
+<programme start="20230715114500 +0000" stop="20230715130300 +0000" channel="TrueAsianMore.th"><title lang="th">ชีช้ำกะหล่ำพลอย EP.13</title></programme>
+<programme start="20230715130300 +0000" stop="20230715133000 +0000" channel="TrueAsianMore.th"><title lang="th">เดอะไกด์ 2023 EP.28</title></programme>
+<programme start="20230715133000 +0000" stop="20230715140000 +0000" channel="TrueAsianMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230715140000 +0000" stop="20230715150000 +0000" channel="TrueAsianMore.th"><title lang="th">สื่อหัวใจ Eicu EP.29</title></programme>
+<programme start="20230715150000 +0000" stop="20230715160000 +0000" channel="TrueAsianMore.th"><title lang="th">อวลรักลิขิตสวรรค์ EP.2</title></programme>
+<programme start="20230715160000 +0000" stop="20230715170000 +0000" channel="TrueAsianMore.th"><title lang="th">อวลรักลิขิตสวรรค์ EP.3</title></programme>
+<programme start="20230712183000 +0000" stop="20230712190000 +0000" channel="TrueChineseMore.th"><title lang="th">เดอะไกด์ 2023</title></programme>
+<programme start="20230712190000 +0000" stop="20230712203000 +0000" channel="TrueChineseMore.th"><title lang="th">สังเวียนแค้น</title></programme>
+<programme start="20230712203000 +0000" stop="20230712221000 +0000" channel="TrueChineseMore.th"><title lang="th">มหัศจรรย์ บ๊องหลุดโลก</title></programme>
+<programme start="20230712221000 +0000" stop="20230712224000 +0000" channel="TrueChineseMore.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230712224000 +0000" stop="20230713002000 +0000" channel="TrueChineseMore.th"><title lang="th">โหดตามพินัยกรรม</title></programme>
+<programme start="20230713002000 +0000" stop="20230713021500 +0000" channel="TrueChineseMore.th"><title lang="th">เจาะหัวใจชีวิตคนดนตรี</title></programme>
+<programme start="20230713021500 +0000" stop="20230713040000 +0000" channel="TrueChineseMore.th"><title lang="th">นางฟ้าซ่อนกลิ่นกับยาหมอเทวดา</title></programme>
+<programme start="20230713040000 +0000" stop="20230713054000 +0000" channel="TrueChineseMore.th"><title lang="th">บรู๊ซลี ไอ้หนุ่มซินตึ๊ง</title></programme>
+<programme start="20230713054000 +0000" stop="20230713073000 +0000" channel="TrueChineseMore.th"><title lang="th">คืนนี้....ขอกิ๊กให้หายเข็ด</title></programme>
+<programme start="20230713073000 +0000" stop="20230713093000 +0000" channel="TrueChineseMore.th"><title lang="th">เมียจ๋ากลับมาเถอะ</title></programme>
+<programme start="20230713093000 +0000" stop="20230713111000 +0000" channel="TrueChineseMore.th"><title lang="th">อึ้ง ทึ่ง สู้</title></programme>
+<programme start="20230713111000 +0000" stop="20230713114000 +0000" channel="TrueChineseMore.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230713114000 +0000" stop="20230713123000 +0000" channel="TrueChineseMore.th"><title lang="th">หลั่งเลือดที่นานกิง</title></programme>
+<programme start="20230713123000 +0000" stop="20230713130300 +0000" channel="TrueChineseMore.th"><title lang="th">ซีเน&apos;พ็อป 2023</title></programme>
+<programme start="20230713130300 +0000" stop="20230713150000 +0000" channel="TrueChineseMore.th"><title lang="th">เกมล่า ลบเหลี่ยมเลว</title></programme>
+<programme start="20230713150000 +0000" stop="20230713165000 +0000" channel="TrueChineseMore.th"><title lang="th">นางฟ้าซ่อนกลิ่นกับยาหมอเทวดา</title></programme>
+<programme start="20230713165000 +0000" stop="20230713184000 +0000" channel="TrueChineseMore.th"><title lang="th">2 คมล่าถล่มเมือง</title></programme>
+<programme start="20230713184000 +0000" stop="20230713203000 +0000" channel="TrueChineseMore.th"><title lang="th">นักฆ่าตาชั้นเดียว</title></programme>
+<programme start="20230713203000 +0000" stop="20230713222000 +0000" channel="TrueChineseMore.th"><title lang="th">อดีตกาลกับการประหารชีวิต</title></programme>
+<programme start="20230713222000 +0000" stop="20230714001000 +0000" channel="TrueChineseMore.th"><title lang="th">เพื่อเพื่อนสับมันเลย</title></programme>
+<programme start="20230714001000 +0000" stop="20230714021000 +0000" channel="TrueChineseMore.th"><title lang="th">3 หัวใจ ให้ได้แค่นายคนเดียว 2</title></programme>
+<programme start="20230714021000 +0000" stop="20230714035000 +0000" channel="TrueChineseMore.th"><title lang="th">เรื่องมันใหญ่...ก็ต้องเบ่ง</title></programme>
+<programme start="20230714035000 +0000" stop="20230714053000 +0000" channel="TrueChineseMore.th"><title lang="th">สื่อรักสัมผัสหัวใจ</title></programme>
+<programme start="20230714053000 +0000" stop="20230714070000 +0000" channel="TrueChineseMore.th"><title lang="th">เหนียน เทพปกรณัมพิทักษ์โลก</title></programme>
+<programme start="20230714070000 +0000" stop="20230714085000 +0000" channel="TrueChineseMore.th"><title lang="th">เพื่อเพื่อนสับมันเลย</title></programme>
+<programme start="20230714085000 +0000" stop="20230714110000 +0000" channel="TrueChineseMore.th"><title lang="th">หักเหลี่ยมแค้น</title></programme>
+<programme start="20230714110000 +0000" stop="20230714130300 +0000" channel="TrueChineseMore.th"><title lang="th">สงคราม 7 จอมเวทย์</title></programme>
+<programme start="20230714130300 +0000" stop="20230714144000 +0000" channel="TrueChineseMore.th"><title lang="th">อาหลาง เศรษฐีกำมะจุ๊</title></programme>
+<programme start="20230714144000 +0000" stop="20230714162000 +0000" channel="TrueChineseMore.th"><title lang="th">ขุนศึกเจ้าพยัคฆ์</title></programme>
+<programme start="20230714162000 +0000" stop="20230714180000 +0000" channel="TrueChineseMore.th"><title lang="th">มหรสพสยอง !!!</title></programme>
+<programme start="20230714180000 +0000" stop="20230714194000 +0000" channel="TrueChineseMore.th"><title lang="th">ร่างกายที่เหลือ</title></programme>
+<programme start="20230714194000 +0000" stop="20230714220000 +0000" channel="TrueChineseMore.th"><title lang="th">เกมหักเหลี่ยม เฉือนคม</title></programme>
+<programme start="20230714220000 +0000" stop="20230714235000 +0000" channel="TrueChineseMore.th"><title lang="th">2 คมล่าถล่มเมือง</title></programme>
+<programme start="20230714235000 +0000" stop="20230715013000 +0000" channel="TrueChineseMore.th"><title lang="th">ไอ้หนุ่มซินตึ๊ง เกมมังกร</title></programme>
+<programme start="20230715013000 +0000" stop="20230715035000 +0000" channel="TrueChineseMore.th"><title lang="th">เกมหักเหลี่ยม เฉือนคม</title></programme>
+<programme start="20230715035000 +0000" stop="20230715054000 +0000" channel="TrueChineseMore.th"><title lang="th">ภารกิจเดือดเชือดเจ้าพ่อ</title></programme>
+<programme start="20230715054000 +0000" stop="20230715074000 +0000" channel="TrueChineseMore.th"><title lang="th">ให้รักนี้ตายไปกับเขา</title></programme>
+<programme start="20230715074000 +0000" stop="20230715094000 +0000" channel="TrueChineseMore.th"><title lang="th">บริษัทสะบัดบรา</title></programme>
+<programme start="20230715094000 +0000" stop="20230715113000 +0000" channel="TrueChineseMore.th"><title lang="th">คนแกร่งแรงระเบิดนรก</title></programme>
+<programme start="20230715113000 +0000" stop="20230715130300 +0000" channel="TrueChineseMore.th"><title lang="th">อาหลาง เศรษฐีกำมะจุ๊</title></programme>
+<programme start="20230715130300 +0000" stop="20230715145000 +0000" channel="TrueChineseMore.th"><title lang="th">เกิดมาต้มตามพรหมลิขิต</title></programme>
+<programme start="20230715145000 +0000" stop="20230715170000 +0000" channel="TrueChineseMore.th"><title lang="th">บรูซ ลี เตะแรก ลั่นโลก</title></programme>
+
+<programme start="20230712170000 +0000" stop="20230712170100 +0000" channel="TrueKoreanMore.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230712170100 +0000" stop="20230712182000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.5</title></programme>
+<programme start="20230712182000 +0000" stop="20230712195000 +0000" channel="TrueKoreanMore.th"><title lang="th">สงครามเพนต์เฮาส์ ปี 3 EP.14</title></programme>
+<programme start="20230712195000 +0000" stop="20230712205000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.56</title></programme>
+<programme start="20230712205000 +0000" stop="20230712212000 +0000" channel="TrueKoreanMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230712212000 +0000" stop="20230712223000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.1</title></programme>
+<programme start="20230712223000 +0000" stop="20230712234000 +0000" channel="TrueKoreanMore.th"><title lang="th">สืบ ล่า ฆาตกร EP.1</title></programme>
+<programme start="20230712234000 +0000" stop="20230713005000 +0000" channel="TrueKoreanMore.th"><title lang="th">หัวใจรัก นักดนตรี EP.16</title></programme>
+<programme start="20230713005000 +0000" stop="20230713021000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.5</title></programme>
+<programme start="20230713021000 +0000" stop="20230713033000 +0000" channel="TrueKoreanMore.th"><title lang="th">สงครามเพนต์เฮาส์ ปี 3 EP.14</title></programme>
+<programme start="20230713033000 +0000" stop="20230713045000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.1</title></programme>
+<programme start="20230713045000 +0000" stop="20230713060000 +0000" channel="TrueKoreanMore.th"><title lang="th">หัวใจรัก นักดนตรี EP.16</title></programme>
+<programme start="20230713060000 +0000" stop="20230713063000 +0000" channel="TrueKoreanMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230713063000 +0000" stop="20230713074000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.56</title></programme>
+<programme start="20230713074000 +0000" stop="20230713085000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.1</title></programme>
+<programme start="20230713085000 +0000" stop="20230713101000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.1</title></programme>
+<programme start="20230713101000 +0000" stop="20230713113000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.5</title></programme>
+<programme start="20230713113000 +0000" stop="20230713130300 +0000" channel="TrueKoreanMore.th"><title lang="th">สงครามเพนต์เฮาส์ ปี 3 EP.14</title></programme>
+<programme start="20230713130300 +0000" stop="20230713142000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.57</title></programme>
+<programme start="20230713142000 +0000" stop="20230713154000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.2</title></programme>
+<programme start="20230713154000 +0000" stop="20230713170000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.2</title></programme>
+<programme start="20230713170000 +0000" stop="20230713170100 +0000" channel="TrueKoreanMore.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230713170100 +0000" stop="20230713182000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.6</title></programme>
+<programme start="20230713182000 +0000" stop="20230713194000 +0000" channel="TrueKoreanMore.th"><title lang="th">นักสืบซอมบี้ EP.1</title></programme>
+<programme start="20230713194000 +0000" stop="20230713210000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.57</title></programme>
+<programme start="20230713210000 +0000" stop="20230713222000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.2</title></programme>
+<programme start="20230713222000 +0000" stop="20230713234000 +0000" channel="TrueKoreanMore.th"><title lang="th">สืบ ล่า ฆาตกร EP.2</title></programme>
+<programme start="20230713234000 +0000" stop="20230714010000 +0000" channel="TrueKoreanMore.th"><title lang="th">กาลครั้งนั้น ณ ควังจู EP.1</title></programme>
+<programme start="20230714010000 +0000" stop="20230714022000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.6</title></programme>
+<programme start="20230714022000 +0000" stop="20230714034000 +0000" channel="TrueKoreanMore.th"><title lang="th">นักสืบซอมบี้ EP.1</title></programme>
+<programme start="20230714034000 +0000" stop="20230714050000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.2</title></programme>
+<programme start="20230714050000 +0000" stop="20230714062000 +0000" channel="TrueKoreanMore.th"><title lang="th">กาลครั้งนั้น ณ ควังจู EP.1</title></programme>
+<programme start="20230714062000 +0000" stop="20230714074000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.57</title></programme>
+<programme start="20230714074000 +0000" stop="20230714090000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.2</title></programme>
+<programme start="20230714090000 +0000" stop="20230714102000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.2</title></programme>
+<programme start="20230714102000 +0000" stop="20230714114000 +0000" channel="TrueKoreanMore.th"><title lang="th">สามสาวพี่น้อง กับ ครอบครัวอลเวง EP.6</title></programme>
+<programme start="20230714114000 +0000" stop="20230714130300 +0000" channel="TrueKoreanMore.th"><title lang="th">นักสืบซอมบี้ EP.1</title></programme>
+<programme start="20230714130300 +0000" stop="20230714142000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.58</title></programme>
+<programme start="20230714142000 +0000" stop="20230714154000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.3</title></programme>
+<programme start="20230714154000 +0000" stop="20230714170000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.3</title></programme>
+<programme start="20230714170000 +0000" stop="20230714170100 +0000" channel="TrueKoreanMore.th"><title lang="th">เพลงสรรเสริญพระบารมี</title></programme>
+<programme start="20230714170100 +0000" stop="20230714182000 +0000" channel="TrueKoreanMore.th"><title lang="th">ไฮคลาส ปมซ่อนเงื่อน EP.7</title></programme>
+<programme start="20230714182000 +0000" stop="20230714193000 +0000" channel="TrueKoreanMore.th"><title lang="th">บ้านนี้มีไออุ่น EP.11</title></programme>
+<programme start="20230714193000 +0000" stop="20230714200000 +0000" channel="TrueKoreanMore.th"><title lang="th">เดอะไกด์ 2023 EP.28</title></programme>
+<programme start="20230714200000 +0000" stop="20230714210000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.58</title></programme>
+<programme start="20230714210000 +0000" stop="20230714221000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.3</title></programme>
+<programme start="20230714221000 +0000" stop="20230714224000 +0000" channel="TrueKoreanMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230714224000 +0000" stop="20230714235000 +0000" channel="TrueKoreanMore.th"><title lang="th">สืบ ล่า ฆาตกร EP.3</title></programme>
+<programme start="20230714235000 +0000" stop="20230715011000 +0000" channel="TrueKoreanMore.th"><title lang="th">กาลครั้งนั้น ณ ควังจู EP.2</title></programme>
+<programme start="20230715011000 +0000" stop="20230715023000 +0000" channel="TrueKoreanMore.th"><title lang="th">ไฮคลาส ปมซ่อนเงื่อน EP.7</title></programme>
+<programme start="20230715023000 +0000" stop="20230715034000 +0000" channel="TrueKoreanMore.th"><title lang="th">บ้านนี้มีไออุ่น EP.11</title></programme>
+<programme start="20230715034000 +0000" stop="20230715050000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.3</title></programme>
+<programme start="20230715050000 +0000" stop="20230715062000 +0000" channel="TrueKoreanMore.th"><title lang="th">กาลครั้งนั้น ณ ควังจู EP.2</title></programme>
+<programme start="20230715062000 +0000" stop="20230715072000 +0000" channel="TrueKoreanMore.th"><title lang="th">เกมรัก เกมแค้น EP.58</title></programme>
+<programme start="20230715072000 +0000" stop="20230715075000 +0000" channel="TrueKoreanMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230715075000 +0000" stop="20230715090000 +0000" channel="TrueKoreanMore.th"><title lang="th">ตุลาการกระหายแค้น EP.3</title></programme>
+<programme start="20230715090000 +0000" stop="20230715102000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.3</title></programme>
+<programme start="20230715102000 +0000" stop="20230715113000 +0000" channel="TrueKoreanMore.th"><title lang="th">ไฮคลาส ปมซ่อนเงื่อน EP.7</title></programme>
+<programme start="20230715113000 +0000" stop="20230715120000 +0000" channel="TrueKoreanMore.th"><title lang="th">ซีเน&apos;พ็อป 2023 EP.27</title></programme>
+<programme start="20230715120000 +0000" stop="20230715130300 +0000" channel="TrueKoreanMore.th"><title lang="th">บ้านนี้มีไออุ่น EP.11</title></programme>
+<programme start="20230715130300 +0000" stop="20230715142000 +0000" channel="TrueKoreanMore.th"><title lang="th">ราชินีเอเจนซี EP.12</title></programme>
+<programme start="20230715142000 +0000" stop="20230715154000 +0000" channel="TrueKoreanMore.th"><title lang="th">เรื่องรัก...ของเราสามคน EP.2</title></programme>
+<programme start="20230715154000 +0000" stop="20230715170000 +0000" channel="TrueKoreanMore.th"><title lang="th">สู้สุดใจ สายบิวตี้ EP.4</title></programme>
 <programme start="20230712170000 +0000" stop="20230712172500 +0000" channel="Workpoint23.th"><title lang="th">TV DIRECT Shopping</title></programme>
 <programme start="20230712172500 +0000" stop="20230712180000 +0000" channel="Workpoint23.th"><title lang="th">ชิงร้อยชิงล้าน ว้าว ว้าว ว้าว รีรัน</title></programme>
 <programme start="20230712180000 +0000" stop="20230712182500 +0000" channel="Workpoint23.th"><title lang="th">TV DIRECT Shopping</title></programme>
@@ -2117,4 +2299,36 @@
 <programme start="20230714161100 +0000" stop="20230714162000 +0000" channel="Workpoint23.th"><title lang="th">ติ่งข่าว รีรัน</title></programme>
 <programme start="20230714162000 +0000" stop="20230714165700 +0000" channel="Workpoint23.th"><title lang="th">เคลียร์ชัดชัด รีรัน</title></programme>
 <programme start="20230714165700 +0000" stop="20230713170000 +0000" channel="Workpoint23.th"><title lang="th">2 ข่าวใหญ่เวิร์คพอยท์ รีรัน</title></programme>
+<programme start="20230714170000 +0000" stop="20230714180000 +0000" channel="Workpoint23.th"><title lang="th">ชิงร้อยชิงล้าน ว้าว ว้าว ว้าว รีรัน</title></programme>
+<programme start="20230714180000 +0000" stop="20230714190000 +0000" channel="Workpoint23.th"><title lang="th">ปัญญาปันสุข รีรัน</title></programme>
+<programme start="20230714190000 +0000" stop="20230714201500 +0000" channel="Workpoint23.th"><title lang="th">เงาเผาขน รีรัน</title></programme>
+<programme start="20230714201500 +0000" stop="20230714204500 +0000" channel="Workpoint23.th"><title lang="th">Someone</title></programme>
+<programme start="20230714204500 +0000" stop="20230714211300 +0000" channel="Workpoint23.th"><title lang="th">เพื่อนกันคนพันธุ์ดี</title></programme>
+<programme start="20230714211300 +0000" stop="20230714211500 +0000" channel="Workpoint23.th"><title lang="th">ธรรมสวัสดี</title></programme>
+<programme start="20230714211500 +0000" stop="20230714220000 +0000" channel="Workpoint23.th"><title lang="th">คุยทะลุดราม่า รีรัน</title></programme>
+<programme start="20230714220000 +0000" stop="20230714233000 +0000" channel="Workpoint23.th"><title lang="th">ตลาดข่าวสุดสัปดาห์</title></programme>
+<programme start="20230714233000 +0000" stop="20230715010000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวเช้าเวิร์คพอยท์ สุดสัปดาห์</title></programme>
+<programme start="20230715010000 +0000" stop="20230715010100 +0000" channel="Workpoint23.th"><title lang="th">เคารพธงชาติ</title></programme>
+<programme start="20230715010100 +0000" stop="20230715013000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวเช้าเวิร์คพอยท์ สุดสัปดาห์</title></programme>
+<programme start="20230715013000 +0000" stop="20230715020000 +0000" channel="Workpoint23.th"><title lang="th">ห้องข่าวบันเทิง</title></programme>
+<programme start="20230715020000 +0000" stop="20230715023000 +0000" channel="Workpoint23.th"><title lang="th">หนีเที่ยวกัน</title></programme>
+<programme start="20230715023000 +0000" stop="20230715030000 +0000" channel="Workpoint23.th"><title lang="th">The Big Kitchen</title></programme>
+<programme start="20230715030000 +0000" stop="20230715040000 +0000" channel="Workpoint23.th"><title lang="th">SME BizTalk</title></programme>
+<programme start="20230715040000 +0000" stop="20230715040300 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20230715040300 +0000" stop="20230715044500 +0000" channel="Workpoint23.th"><title lang="th">ลองเที่ยวดู</title></programme>
+<programme start="20230715044500 +0000" stop="20230715060000 +0000" channel="Workpoint23.th"><title lang="th">โอมเพี้ยงอาจารย์คง</title></programme>
+<programme start="20230715060000 +0000" stop="20230715065500 +0000" channel="Workpoint23.th"><title lang="th">เลดี้พลาซ่า</title></programme>
+<programme start="20230715065500 +0000" stop="20230715070000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20230715070000 +0000" stop="20230715084500 +0000" channel="Workpoint23.th"><title lang="th">ชงข่าววันเสาร์</title></programme>
+<programme start="20230715084500 +0000" stop="20230715100000 +0000" channel="Workpoint23.th"><title lang="th">ชิงช้าสวรรค์ ร้องคู่สิบ</title></programme>
+<programme start="20230715100000 +0000" stop="20230715100300 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20230715100300 +0000" stop="20230715110000 +0000" channel="Workpoint23.th"><title lang="th">ซูเปอร์ 10</title></programme>
+<programme start="20230715110000 +0000" stop="20230715110100 +0000" channel="Workpoint23.th"><title lang="th">เคารพธงชาติ</title></programme>
+<programme start="20230715110100 +0000" stop="20230715130200 +0000" channel="Workpoint23.th"><title lang="th">ไมค์ทองคำสามวัย</title></programme>
+<programme start="20230715130200 +0000" stop="20230715131500 +0000" channel="Workpoint23.th"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
+<programme start="20230715131500 +0000" stop="20230715151500 +0000" channel="Workpoint23.th"><title lang="th">ถ่ายทอดสด RWS ราชดำเนิน เวิลด์ ซีรีส์</title></programme>
+<programme start="20230715151500 +0000" stop="20230715151800 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง</title></programme>
+<programme start="20230715151800 +0000" stop="20230715163000 +0000" channel="Workpoint23.th"><title lang="th">หัวท้ายตายก่อน รีรัน</title></programme>
+<programme start="20230715163000 +0000" stop="20230715165700 +0000" channel="Workpoint23.th"><title lang="th">เลดี้พลาซ่า รีรัน</title></programme>
+<programme start="20230715165700 +0000" stop="20230714170000 +0000" channel="Workpoint23.th"><title lang="th">ข่าวใหม่ต้นชั่วโมง รีรัน</title></programme>
 </tv>
