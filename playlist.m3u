@@ -92,6 +92,14 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
 
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-logo="https://i.imgur.com/lahGZ0y.png" group-title="Entertainment",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge-la.onlineprostream.com:8831/v3/vSO6BbxaylBFVBZGkMGpig/1689221211/0a0a135849dd2c63c5280ac68efee25d/TIAeHe5YFB10ZV9EJPP_fg/1689231966/live/dx-origin/hd-asianmore_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueChineseMore.th" tvg-logo="https://i.imgur.com/FyIzz0l.png" group-title="Entertainment",True Chinese More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge-la.onlineprostream.com:8831/v3/Nsiw8wCESupJkJUv5HT3ww/1689221443/44199c481db52116cacbf661926c887e/TsO_Kj2pdCWIomwDfEHh4Q/1689232198/live/dx-origin/hd-chinesemore_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TOONEE.th" tvg-logo="https://i.imgur.com/xOuMEI4.png" group-title="Kids",TOONEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
