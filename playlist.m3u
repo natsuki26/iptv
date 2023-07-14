@@ -94,15 +94,15 @@ https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-logo="https://i.imgur.com/qSzvmIg.png" group-title="Entertainment",True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-la.onlineprostream.com:8831/v3/tTcLamcEOLW_AA5-wa5cSA/1689223482/0a0a135849dd2c63c5280ac68efee25d/g0qjs8yAhvQC4ubUEiYXbg/1689234237/live/dx-origin/sd-moviehits_720/chunks.m3u8
+https://edge-la.onlineprostream.com:8826/v3/q7D1wAofkIlt0Xctrjj6Vw/1689300100/44199c481db52116cacbf661926c887e/1E4imZnjBddiSagrkdSgqQ/1689310855/live/dx-origin/sd-moviehits_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-logo="https://i.imgur.com/BXIOvwX.png" group-title="Entertainment",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-la.onlineprostream.com:8831/v3/bKv8k2m_kVOASbYbcoCYMQ/1689223507/0a0a135849dd2c63c5280ac68efee25d/Cgl9MSdW8t-jLMIHr72tuw/1689234262/live/dx-origin/sd-thaifilm_720/chunks.m3u8
+https://edge-la.onlineprostream.com:8826/v3/nKbHMykdRZ4NiUBPsME--Q/1689300191/0a0a135849dd2c63c5280ac68efee25d/I9E-5jfGqU1Zmz69M_IS_w/1689310946/live/dx-origin/sd-thaifilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueSeries.th" tvg-logo="https://i.imgur.com/gJNWHfU.png" group-title="Entertainment",True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-bb5.onlineprostream.com:8831/v3/uXHRmMSy_XhYZImSfw1rlQ/1689223495/44199c481db52116cacbf661926c887e/a1c-W-olDlnIXSce3_IpIg/1689234250/live/dx-origin/sd-series_720/chunks.m3u8
+https://edge-s5.onlineprostream.com:8826/v5/VcKPncFqeBeD2Pi85E5aUQ/1689300164/0a0a135849dd2c63c5280ac68efee25d/6IbthXB-UMKoTRl01FNmRw/1689310919/live/dx-origin/sd-series_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilmHD.th" tvg-logo="https://i.imgur.com/9bA4UZm.png" group-title="Entertainment",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -142,7 +142,7 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/pl
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/R7VdQFf.png" group-title="Kids",DreamWorks Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-la.onlineprostream.com:8831/v3/uDE8i5SOZ-7Ucq2i4apSQg/1689223040/44199c481db52116cacbf661926c887e/RKNc-tnIren8p5fTh8jSCw/1689233795/live/dx-origin/hd-dreamworks_720/chunks.m3u8
+https://edge-bb5.onlineprostream.com:8826/v3/mlup1X5OQaqS2ZlpmfZEgQ/1689300356/0a0a135849dd2c63c5280ac68efee25d/j8NTJVktpBOf1vReZlFdqA/1689311111/live/dx-origin/hd-dreamworks_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TOONEE.th" tvg-logo="https://i.imgur.com/xOuMEI4.png" group-title="Kids",TOONEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
