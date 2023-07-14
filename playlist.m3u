@@ -132,10 +132,6 @@ https://edge-la.onlineprostream.com:8831/v3/vDR1LiwNcUfRuY0vwD8V2A/1689215869/44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge-s4.onlineprostream.com:8831/v3/7wbr6mFoEARg4n2HdZWcpw/1689223801/44199c481db52116cacbf661926c887e/4IqM03EZ1zay-7BGSyrKGA/1689234556/live/dx-origin/sd-tvb_480/chunks.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://i.imgur.com/zgHNFrm.png" group-title="Entertainment",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-la.onlineprostream.com:8831/v3/aK0tc2dm4csVjnLarDQTBg/1689223891/0a0a135849dd2c63c5280ac68efee25d/TY_BJ8LxnDoWElKJEwgcSQ/1689234646/live/dx-origin/hd-warnertv_720/chunks.m3u8
-
 #EXTINF:-1 tvg-id="CartoonClub.th" tvg-logo="https://i.imgur.com/KL0oitM.png" group-title="Kids",Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/playlist.m3u8
