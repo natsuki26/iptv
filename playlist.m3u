@@ -14,7 +14,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -46,7 +46,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -62,7 +62,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
