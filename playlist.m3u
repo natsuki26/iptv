@@ -84,6 +84,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/RHrW96W.png" group-title="News",News 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://news1.live14.com/stream/news1.m3u8
+
 #EXTINF:-1 tvg-id="TopNews.th" tvg-logo="https://i.imgur.com/YuDZ0ec.png" group-title="News",Top News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.topnews.co.th/hls/topnews_720.m3u8
@@ -91,6 +95,10 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTINF:-1 tvg-id="ThaiTaiChannel.th" tvg-logo="https://i.imgur.com/UeAXw3Y.png" group-title="News",Thai Tai Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
+
+#EXTINF:-1 tvg-id="Mangkorn.th" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="Entertainment",Mangkorn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://i.imgur.com/Ruc88XO.png" group-title="Kids",Boomerang (Thai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
