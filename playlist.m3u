@@ -92,6 +92,10 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
 
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://i.imgur.com/Ruc88XO.png" group-title="Kids",Boomerang (Thai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonClub.th" tvg-logo="https://i.imgur.com/KL0oitM.png" group-title="Kids",Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/playlist.m3u8
