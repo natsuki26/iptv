@@ -2,87 +2,87 @@
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nbt2hd.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thaipbs.png" group-title="Digital TV",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/altv.png" group-title="Digital TV",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tv5hd.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tsports7.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tptv.png" group-title="Digital TV",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tnn16.png" group-title="Digital TV",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/jkn18.png" group-title="Digital TV",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nationtv.png" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/workpoint23.png" group-title="Digital TV",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/true4u.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/gmm25.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel8.png" group-title="Digital TV",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mono29.png" group-title="Digital TV",Mono 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mcothd.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/one31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thairathtv.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel3HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel3hd.png" group-title="Digital TV",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmarinTVHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/amarintvhd.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/bbtvchannel7.png" group-title="Digital TV",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/pptvhd36.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/news1.png" group-title="News",News 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
