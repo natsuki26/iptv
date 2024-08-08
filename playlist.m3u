@@ -84,6 +84,10 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/13_siamthai.png" group-title="News",13 Siam Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.x2.co.th/live/13livetv-th.m3u8
+
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/news1.png" group-title="News",News 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1.m3u8
@@ -98,7 +102,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/boomerang.png" group-title="Kids",Boomerang (Thai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClub.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/cartoon_club.png" group-title="Kids",Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
