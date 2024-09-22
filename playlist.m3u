@@ -70,11 +70,11 @@ http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="Channel3HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel3hd.png" group-title="Digital TV",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w575099455_b4692000_slThai.m3u8
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmarinTVHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/amarintvhd.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_w198863596_b4692000_slThai.m3u8
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/bbtvchannel7.png" group-title="Digital TV",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
