@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nbt2hd.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thaipbs.png" group-title="Digital TV",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/altv.png" group-title="Digital TV",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -14,23 +14,23 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tv5hd.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tsports7.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tptv.png" group-title="Digital TV",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tnn16.png" group-title="Digital TV",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/jkn18.png" group-title="Digital TV",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nationtv.png" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -42,23 +42,23 @@ https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/true4u.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/true4u/true4u.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/gmm25.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel8.png" group-title="Digital TV",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mono29.png" group-title="Digital TV",Mono 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/mono/mono.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mcothd.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/one31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -98,11 +98,11 @@ https://live.topnews.co.th/hls/topnews_720.m3u8
 
 #EXTINF:-1 tvg-id="BOOMANIME.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/boom_anime.png" group-title="Kids",BOOM ANIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/boomerang.png" group-title="Kids",Boomerang (Thai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="CartoonClub.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/cartoon_club.png" group-title="Kids",Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
