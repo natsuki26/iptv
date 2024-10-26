@@ -38,7 +38,7 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/workpoint23.png" group-title="Digital TV",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/true4u.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
