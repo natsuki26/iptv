@@ -62,7 +62,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/one31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bcovlive-a.akamaihd.net/0cd6bc78d30140749a0aad1523804f57/ap-southeast-1/6415628290001/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thairathtv.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
