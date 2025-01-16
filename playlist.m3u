@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nbt2hd.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
+https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thaipbs.png" group-title="Digital TV",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
+https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/altv.png" group-title="Digital TV",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -14,23 +14,23 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tv5hd.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tsports7.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tptv.png" group-title="Digital TV",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
+https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tnn16.png" group-title="Digital TV",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/jkn18.png" group-title="Digital TV",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
+https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/nationtv.png" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -38,43 +38,43 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/workpoint23.png" group-title="Digital TV",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/workpointmyStream.m3u8
+https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/true4u.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
+https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/gmm25.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
+https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel8.png" group-title="Digital TV",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
+https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mono29.png" group-title="Digital TV",Mono 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
+https://edge2a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/mcothd.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
+https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/one31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
+https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/thairathtv.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
+https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3HD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/channel3hd.png" group-title="Digital TV",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmarinTVHD.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/amarintvhd.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
+https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/bbtvchannel7.png" group-title="Digital TV",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -82,7 +82,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/pptvhd36.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
+https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/dltv1.png" group-title="Digital TV",DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
