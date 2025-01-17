@@ -170,7 +170,7 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/pl
 
 #EXTINF:-1 tvg-id="YateemTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/yateem_tv.png" group-title="Education",Yateem TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/white_channel.png" group-title="Education",White Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
