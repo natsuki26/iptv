@@ -180,6 +180,14 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AnurakTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/anurak_tv.png" group-title="Education",Anurak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://vdo.plathong.net/anuraktv/anuraktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnnasTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/annas_tv.png" group-title="Education",Annas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://vdo.plathong.net/Annastv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/tv_muslim_thailand.png" group-title="Education",TV Muslim Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
